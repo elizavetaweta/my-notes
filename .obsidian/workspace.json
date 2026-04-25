@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/99_Вложения/Информационная безопасность. Основые темы и понятия в ИБ.md",
+                "file": "Cybersecurity/02_Обучение/01_Обзор Модуля 1.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Информационная безопасность. Основые темы и понятия в ИБ"
+              "title": "01_Обзор Модуля 1.md"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/99_Вложения/Информационная безопасность. Основые темы и понятия в ИБ.md",
+                "file": "Cybersecurity/02_Обучение/01_Обзор Модуля 1.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Информационная безопасность. Основые темы и понятия в ИБ"
+              "title": "Outline of 01_Обзор Модуля 1.md"
             }
           },
           {
@@ -217,10 +217,10 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/00_Обзор Модуля 1.md.md",
+    "Cybersecurity/02_Обучение/00_MOC Отрасли ИБ.md",
+    "Cybersecurity/02_Обучение/01_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Триада КЦД (CIA Triad).md",
     "Cybersecurity/99_Вложения/Информационная безопасность. Основые темы и понятия в ИБ.md",
-    "Cybersecurity/02_Обучение/Untitled.md",
     "Cybersecurity/99_Вложения/Бесперебойное питание (ИБП).md",
     "Cybersecurity/99_Вложения/Электронная подпись.md",
     "Cybersecurity/99_Вложения/Хеширование.md",
