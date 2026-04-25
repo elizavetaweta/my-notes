@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cybersecurity/02_Обучение/Триада КЦД (CIA Triad).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -219,10 +219,12 @@
   "lastOpenFiles": [
     "Cybersecurity/99_Вложения/Двухфакторная аутентификация (2FA).md",
     "Cybersecurity/02_Обучение/Триада КЦД (CIA Triad).md",
-    "Cybersecurity/99_Вложения/Биометрия.md",
+    "Cybersecurity/99_Вложения/Управление доступом (IAM).md",
     "Cybersecurity/99_Вложения/Пароль.md",
-    "Cybersecurity/99_Вложения/Конфиденциальность.md",
     "Cybersecurity/99_Вложения/Криптография.md",
+    "Cybersecurity/99_Вложения/Хеширование.md",
+    "Cybersecurity/99_Вложения/Биометрия.md",
+    "Cybersecurity/99_Вложения/Конфиденциальность.md",
     "Cybersecurity/99_Вложения/Информационная безопасность. Основые темы и понятия в ИБ.md",
     "Cybersecurity/02_Обучение/00_Обзор Модуля 1.md.md",
     "Cybersecurity/99_Вложения/149-ФЗ  \"Об информации, информационных технологиях и о защите информации\".md",
