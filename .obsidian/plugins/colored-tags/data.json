@@ -20,6 +20,7 @@
     "question": 8,
     "regulator": 9,
     "status": 10,
+    "tech": 15,
     "term": 11,
     "todo": 12,
     "tool": 13,
