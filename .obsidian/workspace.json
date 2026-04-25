@@ -11,18 +11,14 @@
             "id": "5e0497b343015ef3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Cybersecurity/01_Заметки/Теги.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Теги"
             }
           }
         ]
@@ -204,14 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8df89bceef341a3",
+  "active": "5e0497b343015ef3",
   "lastOpenFiles": [
-    "Cybersecurity/Untitled 3",
-    "Cybersecurity/Untitled 2",
-    "Cybersecurity/Untitled 1",
-    "Cybersecurity/Untitled",
-    "plugins_info/Без названия.base",
+    "Cybersecurity/03_Инструменты/Для чего.md",
+    "Cybersecurity/01_Заметки/Теги.md",
+    "Cybersecurity/03_Инструменты/Теги.md",
     "Untitled Kanban.md",
+    "Cybersecurity/Untitled 3",
+    "Cybersecurity/03_Инструменты",
+    "Cybersecurity/02_Обучение",
+    "Cybersecurity/01_Заметки",
+    "plugins_info/Без названия.base",
     "plugins_info",
     "plugins_info/Excalidraw/Drawing 2026-04-25 10.29.32.excalidraw.md",
     "plugins_info/Excalidraw/Drawing 2026-04-25 09.44.04.excalidraw.md",
