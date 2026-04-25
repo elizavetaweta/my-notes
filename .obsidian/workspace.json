@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,17 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e0497b343015ef3",
+  "active": "b8df89bceef341a3",
   "lastOpenFiles": [
+    "plugins_info/Без названия.base",
+    "Untitled Kanban.md",
     "Cybersecurity/03_Инструменты/Для чего.md",
     "Cybersecurity/01_Заметки/Теги.md",
     "Cybersecurity/03_Инструменты/Теги.md",
-    "Untitled Kanban.md",
     "Cybersecurity/Untitled 3",
     "Cybersecurity/03_Инструменты",
     "Cybersecurity/02_Обучение",
     "Cybersecurity/01_Заметки",
-    "plugins_info/Без названия.base",
     "plugins_info",
     "plugins_info/Excalidraw/Drawing 2026-04-25 10.29.32.excalidraw.md",
     "plugins_info/Excalidraw/Drawing 2026-04-25 09.44.04.excalidraw.md",
