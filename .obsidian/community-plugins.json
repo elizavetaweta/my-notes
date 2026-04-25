@@ -11,5 +11,8 @@
   "obsidian-admonition",
   "obsidian-mind-map",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "highlightr-plugin",
+  "colored-tags",
+  "colored-text"
 ]

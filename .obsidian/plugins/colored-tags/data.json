@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "cmd": 1,
+    "excalidraw": 2,
+    "exploit": 3,
+    "lab": 4,
+    "law": 5,
+    "must-know": 6,
+    "payload": 7,
+    "question": 8,
+    "regulator": 9,
+    "status": 10,
+    "term": 11,
+    "todo": 12,
+    "tool": 13,
+    "vuln": 14,
+    "status/draft": 1,
+    "status/final": 2
+  },
+  "tagColors": {},
+  "_version": 4
+}
