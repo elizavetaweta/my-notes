@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
+                "file": "Cybersecurity/02_Обучение/Лицензия ФСТЭК на ТЗИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аттестация объектов информатизации"
+              "title": "Лицензия ФСТЭК на ТЗИ"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#legal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,9 +217,17 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Лицензирование.md",
+    "Cybersecurity/02_Обучение/Лицензия ФСТЭК на ТЗИ.md",
+    "Cybersecurity/02_Обучение/99-ФЗ.md",
+    "Cybersecurity/02_Обучение/Лицензирование, аттестация, сертификация.md",
+    "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
+    "Cybersecurity/02_Обучение/Информация с ограниченным доступом (тайны).md",
+    "Cybersecurity/01_Заметки/Теги.md",
+    "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
+    "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
     "Cybersecurity/02_Обучение/Аутентификация.md",
     "Cybersecurity/02_Обучение/Авторизация.md",
-    "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
     "Cybersecurity/02_Обучение/Этапы проведения аудита ИБ.md",
     "Cybersecurity/02_Обучение/Стандарты аудита ИБ.md",
     "Cybersecurity/02_Обучение/Целостность.md",
@@ -235,14 +243,6 @@
     "Cybersecurity/02_Обучение/ФЗ-99.md",
     "Cybersecurity/02_Обучение/Управление доступом (IAM).md",
     "Cybersecurity/02_Обучение/ТЗИ.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
-    "Cybersecurity/02_Обучение/Правовая защита.md",
-    "Cybersecurity/02_Обучение/Активы в ИБ.md",
-    "Cybersecurity/02_Обучение/Защита информации (ЗИ).md",
-    "Cybersecurity/02_Обучение/КИИ.md",
-    "Cybersecurity/02_Обучение/ГосСОПКА.md",
-    "Cybersecurity/02_Обучение/КИИ (Критическая информационная инфраструктура).md",
-    "Cybersecurity/02_Обучение/ФЗ-98 \"О коммерческой тайне\".md",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133225.png",
