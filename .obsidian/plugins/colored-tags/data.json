@@ -27,7 +27,8 @@
     "tool": 13,
     "vuln": 14,
     "status/draft": 1,
-    "status/final": 2
+    "status/final": 2,
+    "term/concept": 1
   },
   "tagColors": {},
   "_version": 4
