@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/ГИС.md",
+                "file": "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ГИС"
+              "title": "Приказ ФСТЭК №17"
             }
           }
         ],
@@ -216,7 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Важные приказы ФСТЭК для ИБ.md",
+    "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
+    "Cybersecurity/02_Обучение/КИИ.md",
+    "Cybersecurity/02_Обучение/Классификация и категоризация информации, информационных систем.md",
+    "Cybersecurity/02_Обучение/АСУ ТП.md",
+    "Cybersecurity/02_Обучение/ФЗ-152.md",
+    "Cybersecurity/02_Обучение/АС.md",
     "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
+    "Cybersecurity/02_Обучение/ГИС.md",
     "Cybersecurity/02_Обучение/ИСПДн.md",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/02_Обучение/Защита от утечек по техническим каналам (УТК).md",
@@ -226,10 +234,6 @@
     "Cybersecurity/02_Обучение/PCI DSS.md",
     "Cybersecurity/02_Обучение/0_MOC Отрасли ИБ.md",
     "Cybersecurity/02_Обучение/ИСОП.md",
-    "Cybersecurity/02_Обучение/АС.md",
-    "Cybersecurity/02_Обучение/КИИ.md",
-    "Cybersecurity/02_Обучение/ГИС.md",
-    "Cybersecurity/02_Обучение/АСУ ТП.md",
     "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Защита от DDoS.md",
     "Cybersecurity/02_Обучение/Доступность.md",
@@ -239,9 +243,6 @@
     "Cybersecurity/02_Обучение/Средства защиты информации (СЗИ).md",
     "Cybersecurity/02_Обучение/Классификация ИСПДн (Уровни защищенности).md",
     "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
-    "Cybersecurity/02_Обучение/РД ФСТЭК по НДВ.md",
-    "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
-    "Cybersecurity/02_Обучение/РД ФСТЭК «СВТ. Защита от НСД. Показатели защищенности».md",
     "Cybersecurity/99_Вложения/Pasted image 20260427103610.png",
     "ГОСТ Р ИСО",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
