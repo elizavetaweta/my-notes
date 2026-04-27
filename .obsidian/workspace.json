@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
+                "file": "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аттестация объектов информатизации"
+              "title": "1.4_Нормативное регулирование в ИБ"
             }
           }
         ],
@@ -216,12 +216,16 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Лицензирование, аттестация, сертификация.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №239.md",
+    "Cybersecurity/02_Обучение/ФЗ-98.md",
     "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
-    "Cybersecurity/02_Обучение/Лицензирование.md",
     "Cybersecurity/02_Обучение/Приказ ФСТЭК №77.md",
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №21.md",
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
+    "Cybersecurity/02_Обучение/Важные приказы ФСТЭК для ИБ.md",
+    "Cybersecurity/02_Обучение/Лицензирование, аттестация, сертификация.md",
     "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
+    "Cybersecurity/02_Обучение/Лицензирование.md",
     "Cybersecurity/02_Обучение/Аттестат соответствия.md",
     "Cybersecurity/02_Обучение/ПП РФ №79.md",
     "Cybersecurity/02_Обучение/НКЦКИ.md",
@@ -238,10 +242,6 @@
     "Cybersecurity/02_Обучение/Лицензия ФСТЭК на ТЗИ.md",
     "Cybersecurity/02_Обучение/Криптографическая защита.md",
     "Cybersecurity/02_Обучение/Защита информации (ЗИ).md",
-    "Cybersecurity/02_Обучение/Техническая защита.md",
-    "Cybersecurity/02_Обучение/Правовая защита.md",
-    "Cybersecurity/02_Обучение/Важные приказы ФСТЭК для ИБ.md",
-    "Cybersecurity/02_Обучение/Безопасность в финансовых системах.md",
     "Cybersecurity/04_Практические задания и примеры",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427103610.png",
