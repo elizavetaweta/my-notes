@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Классификация и категоризация информации, информационных систем.md",
+                "file": "Cybersecurity/02_Обучение/ОИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Классификация и категоризация информации, информационных систем"
+              "title": "ОИ"
             }
           }
         ],
@@ -216,8 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Классификация и категоризация информации, информационных систем.md",
+    "Cybersecurity/02_Обучение/ОИ.md",
+    "Cybersecurity/02_Обучение/СОИ.md",
+    "Cybersecurity/02_Обучение/Системы контроля версий (Git).md",
+    "Cybersecurity/02_Обучение/Защита от НСД.md",
+    "Cybersecurity/02_Обучение/НСД.md",
+    "Cybersecurity/02_Обучение/Защита от несанкционированного доступа (НСД).md",
+    "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
+    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/0_MOC Отрасли ИБ.md",
     "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
     "Cybersecurity/02_Обучение/1.2_Информация с ограниченным доступом (тайны).md",
@@ -234,15 +241,7 @@
     "Cybersecurity/02_Обучение/ФЗ-149.md",
     "Cybersecurity/02_Обучение/Риск.md",
     "ГОСТ Р ИСО/МЭК 27001.md",
-    "Cybersecurity/02_Обучение/СЗИ.md",
-    "Cybersecurity/02_Обучение/Средства защиты информации (СЗИ).md",
-    "Cybersecurity/02_Обучение/Моделирование угроз.md",
-    "Cybersecurity/02_Обучение/Активы в ИБ.md",
-    "Cybersecurity/02_Обучение/Безопасность в финансовых системах.md",
-    "Cybersecurity/02_Обучение/Аудит ИБ.md",
     "ГОСТ Р ИСО",
-    "Cybersecurity/02_Обучение/ГОСТ Р 50922-2006.md",
-    "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133225.png",
