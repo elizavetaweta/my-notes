@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
+                "file": "Cybersecurity/02_Обучение/ИСПДн.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Приказ ФСТЭК №17"
+              "title": "ИСПДн"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
     "Cybersecurity/02_Обучение/Важные приказы ФСТЭК для ИБ.md",
     "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
     "Cybersecurity/02_Обучение/КИИ.md",
@@ -242,7 +243,6 @@
     "Cybersecurity/02_Обучение/СЗИ.md",
     "Cybersecurity/02_Обучение/Средства защиты информации (СЗИ).md",
     "Cybersecurity/02_Обучение/Классификация ИСПДн (Уровни защищенности).md",
-    "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
     "Cybersecurity/99_Вложения/Pasted image 20260427103610.png",
     "ГОСТ Р ИСО",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
