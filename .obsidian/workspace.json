@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/ОИ.md",
+                "file": "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ОИ"
+              "title": "Аттестация объектов информатизации"
             }
           }
         ],
@@ -216,11 +216,11 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/СОИ.md",
     "Cybersecurity/02_Обучение/Классификация и категоризация информации, информационных систем.md",
     "Cybersecurity/02_Обучение/ОИ.md",
-    "Cybersecurity/02_Обучение/СОИ.md",
-    "Cybersecurity/02_Обучение/Системы контроля версий (Git).md",
     "Cybersecurity/02_Обучение/Защита от НСД.md",
+    "Cybersecurity/02_Обучение/Системы контроля версий (Git).md",
     "Cybersecurity/02_Обучение/НСД.md",
     "Cybersecurity/02_Обучение/Защита от несанкционированного доступа (НСД).md",
     "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
