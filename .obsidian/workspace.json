@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
+                "file": "Cybersecurity/02_Обучение/СВТ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни доверия ФСТЭК"
+              "title": "СВТ"
             }
           }
         ],
@@ -216,9 +216,12 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
-    "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
     "Cybersecurity/02_Обучение/СЗИ.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260428104604.png",
+    "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260428104514.png",
+    "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260428104446.png",
     "Cybersecurity/02_Обучение/Лицензия ФСБ на работу с гостайной.md",
     "Cybersecurity/02_Обучение/Лицензия ФСБ на криптографию.md",
     "Cybersecurity/02_Обучение/Лицензия ФСТЭК на ТЗИ.md",
@@ -245,14 +248,11 @@
     "Cybersecurity/02_Обучение/Лицензирование деятельности по ТЗИ.md",
     "Cybersecurity/02_Обучение/ФЗ-99.md",
     "Cybersecurity/99_Вложения/Pasted image 20260427204403.png",
-    "Cybersecurity/02_Обучение/Защита от утечек по техническим каналам (УТК).md",
     "Cybersecurity/04_Практические задания и примеры",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427103610.png",
     "ГОСТ Р ИСО",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260426133225.png",
     "Cybersecurity/01_Заметки/Untitled.canvas",
     "plugins_info/Без названия.base",
     "Cybersecurity/99_Вложения",
