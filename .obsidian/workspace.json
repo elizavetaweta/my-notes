@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
+                "file": "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Приказ ФСТЭК №17"
+              "title": "Уровни доверия ФСТЭК"
             }
           }
         ],
@@ -216,6 +216,8 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/СЗИ.md",
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
     "Cybersecurity/02_Обучение/ГИС.md",
     "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
     "Cybersecurity/02_Обучение/Аттестация объектов информатизации.md",
@@ -227,7 +229,6 @@
     "Cybersecurity/02_Обучение/Практические задания.md",
     "Cybersecurity/04_Практические задания и примеры/Практические задания и примеры.md",
     "Cybersecurity/02_Обучение/СВТ.md",
-    "Cybersecurity/02_Обучение/СЗИ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260428104604.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428104514.png",
     "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
@@ -251,7 +252,6 @@
     "Cybersecurity/02_Обучение/Приказ ФСТЭК №239.md",
     "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/02_Обучение/СКЗИ.md",
-    "Cybersecurity/02_Обучение/ТЗИ.md",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
