@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/04_Практические задания и примеры/Практические задания и примеры.md",
+                "file": "Cybersecurity/01_Заметки/План подготовки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практические задания и примеры"
+              "title": "План подготовки"
             }
           }
         ],
@@ -216,8 +216,13 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Практические задания.md",
+    "Cybersecurity/02_Обучение/Риск.md",
+    "Cybersecurity/01_Заметки/План подготовки.md",
+    "Cybersecurity/02_Обучение/СУИБ.md",
+    "Cybersecurity/02_Обучение/Принцип минимальных привилегий (Principle of Least Privilege).md",
+    "Cybersecurity/02_Обучение/Идентификация.md",
     "Cybersecurity/04_Практические задания и примеры/Практические задания и примеры.md",
+    "Cybersecurity/02_Обучение/Практические задания.md",
     "Cybersecurity/02_Обучение/СВТ.md",
     "Cybersecurity/02_Обучение/СЗИ.md",
     "Cybersecurity/02_Обучение/Уровни доверия ФСТЭК.md",
@@ -247,11 +252,6 @@
     "Cybersecurity/02_Обучение/ФЗ-184.md",
     "Cybersecurity/02_Обучение/ФЗ-98.md",
     "Cybersecurity/02_Обучение/ФЗ-149.md",
-    "Cybersecurity/02_Обучение/ПП РФ №313.md",
-    "Cybersecurity/02_Обучение/ПП РФ №957.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №239.md",
-    "Cybersecurity/02_Обучение/Электронная подпись.md",
-    "Cybersecurity/02_Обучение/СКЗИ.md",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
