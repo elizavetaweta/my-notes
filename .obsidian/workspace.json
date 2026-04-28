@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/01_Заметки/План подготовки.md",
+                "file": "Cybersecurity/02_Обучение/Защита от утечек по техническим каналам (УТК).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План подготовки"
+              "title": "Защита от утечек по техническим каналам (УТК)"
             }
           }
         ],
@@ -217,6 +217,7 @@
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
     "Cybersecurity/02_Обучение/ТЗИ.md",
+    "Cybersecurity/02_Обучение/РД ФСТЭК по НДВ.md",
     "Cybersecurity/01_Заметки/План подготовки.md",
     "Cybersecurity/02_Обучение/ГОСТ Р 57580.1.md",
     "Cybersecurity/02_Обучение/ФЗ-187 \"О безопасности критической информационной инфраструктуры\".md",
@@ -248,7 +249,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260428104514.png",
     "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260428104446.png",
-    "Cybersecurity/02_Обучение/Лицензия ФСБ на работу с гостайной.md",
     "Cybersecurity/99_Вложения/Pasted image 20260428102315.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428102032.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428101154.png",
