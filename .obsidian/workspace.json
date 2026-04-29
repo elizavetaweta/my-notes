@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Подходы к моделированию угроз.md",
+                "file": "Cybersecurity/02_Обучение/Методика оценки угроз безопасности информации ФСТЭК России (2021).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подходы к моделированию угроз"
+              "title": "Методика оценки угроз безопасности информации ФСТЭК России (2021)"
             }
           }
         ],
@@ -216,8 +216,11 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Методики к моделированию угроз.md",
+    "Cybersecurity/02_Обучение/Методика оценки угроз безопасности информации ФСТЭК России (2021).md",
+    "Cybersecurity/99_Вложения/Pasted image 20260429134800.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260429134737.png",
     "Cybersecurity/02_Обучение/РД ФСТЭК по НДВ.md",
-    "Cybersecurity/02_Обучение/Подходы к моделированию угроз.md",
     "Cybersecurity/02_Обучение/Моделирование угроз ИБ.md",
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Авторизация.md",
@@ -241,7 +244,6 @@
     "Cybersecurity/02_Обучение/Приказ ФСТЭК №31.md",
     "Cybersecurity/02_Обучение/1.6_Лицензирование, аттестация, сертификация.md",
     "Cybersecurity/02_Обучение/Классификация АСУ ТП (Классы защищенности).md",
-    "Cybersecurity/02_Обучение/Классификация ИСПДн (Уровни защищенности).md",
     "Cybersecurity/99_Вложения/Pasted image 20260429111128.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428153951.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110813.png",
@@ -250,8 +252,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428104604.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428104514.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428104446.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428102315.png",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
