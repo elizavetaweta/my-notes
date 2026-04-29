@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
+                "file": "Cybersecurity/02_Обучение/Подходы к моделированию угроз.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4_Нормативное регулирование в ИБ"
+              "title": "Подходы к моделированию угроз"
             }
           }
         ],
@@ -216,9 +216,19 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/БДУ ФСТЭК.md",
-    "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
+    "Cybersecurity/02_Обучение/РД ФСТЭК по НДВ.md",
+    "Cybersecurity/02_Обучение/Подходы к моделированию угроз.md",
     "Cybersecurity/02_Обучение/Моделирование угроз ИБ.md",
+    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
+    "Cybersecurity/02_Обучение/Авторизация.md",
+    "Cybersecurity/02_Обучение/Аутентификация.md",
+    "Cybersecurity/02_Обучение/Идентификация.md",
+    "Cybersecurity/01_Заметки/План подготовки.md",
+    "Cybersecurity/02_Обучение/184-ФЗ.md",
+    "Cybersecurity/02_Обучение/Резервное копирование (Бэкап).md",
+    "Cybersecurity/02_Обучение/НДВ).md",
+    "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
+    "Cybersecurity/02_Обучение/БДУ ФСТЭК.md",
     "Cybersecurity/02_Обучение/Модель нарушителя.md",
     "Cybersecurity/02_Обучение/АСУ ТП.md",
     "Cybersecurity/02_Обучение/КИИ.md",
@@ -228,20 +238,10 @@
     "Cybersecurity/02_Обучение/ИСОП.md",
     "Cybersecurity/02_Обучение/ИСПДн.md",
     "Cybersecurity/02_Обучение/ГИС.md",
-    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Приказ ФСТЭК №31.md",
     "Cybersecurity/02_Обучение/1.6_Лицензирование, аттестация, сертификация.md",
     "Cybersecurity/02_Обучение/Классификация АСУ ТП (Классы защищенности).md",
     "Cybersecurity/02_Обучение/Классификация ИСПДн (Уровни защищенности).md",
-    "Cybersecurity/02_Обучение/Иерархия объектов защиты в ИБ.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №21.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №239.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №77.md",
-    "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
-    "Cybersecurity/02_Обучение/Этапы проведения аудита ИБ.md",
-    "Cybersecurity/02_Обучение/Целостность.md",
-    "Cybersecurity/02_Обучение/ФСТЭК России.md",
-    "Cybersecurity/02_Обучение/ФСБ России.md",
     "Cybersecurity/99_Вложения/Pasted image 20260429111128.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428153951.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110813.png",
