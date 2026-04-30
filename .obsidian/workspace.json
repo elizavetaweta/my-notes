@@ -25,14 +25,12 @@
             "id": "9f239f42e1808f1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Методика оценки угроз безопасности информации ФСТЭК России (2021).md",
-                "mode": "source",
-                "source": false
+                "file": "Cybersecurity/99_Вложения/Pasted image 20260428110721.png"
               },
-              "icon": "lucide-file",
-              "title": "Методика оценки угроз безопасности информации ФСТЭК России (2021)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260428110721"
             }
           }
         ],
@@ -216,9 +214,14 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Моделирование угроз ИБ.md",
-    "Cybersecurity/02_Обучение/Методика оценки угроз безопасности информации ФСТЭК России (2021).md",
+    "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260426133225.png",
     "Cybersecurity/04_Практические задания и примеры/Практические задания и примеры.md",
+    "Cybersecurity/01_Заметки/Теги.md",
+    "Cybersecurity/01_Заметки/План подготовки.md",
+    "Cybersecurity/02_Обучение/Методика оценки угроз безопасности информации ФСТЭК России (2021).md",
+    "Cybersecurity/02_Обучение/Моделирование угроз ИБ.md",
     "Cybersecurity/02_Обучение/Примеры.md",
     "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
@@ -230,7 +233,6 @@
     "Cybersecurity/02_Обучение/Уязвимость.md",
     "Cybersecurity/02_Обучение/ВУЛ.md",
     "Cybersecurity/02_Обучение/Угроза.md",
-    "Cybersecurity/01_Заметки/План подготовки.md",
     "Cybersecurity/02_Обучение/Модель нарушителя.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
@@ -243,15 +245,11 @@
     "Cybersecurity/02_Обучение/РД ФСТЭК по НДВ.md",
     "Cybersecurity/02_Обучение/Авторизация.md",
     "Cybersecurity/02_Обучение/Аутентификация.md",
-    "Cybersecurity/02_Обучение/Идентификация.md",
-    "Cybersecurity/02_Обучение/184-ФЗ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260429111128.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428153951.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110813.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110747.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110734.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428104604.png",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
