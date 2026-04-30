@@ -25,12 +25,14 @@
             "id": "9f239f42e1808f1a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cybersecurity/99_Вложения/Pasted image 20260428110721.png"
+                "file": "Cybersecurity/02_Обучение/Приказ ФСТЭК №17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260428110721"
+              "icon": "lucide-file",
+              "title": "Приказ ФСТЭК №17"
             }
           }
         ],
@@ -214,6 +216,9 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №21.md",
+    "Cybersecurity/02_Обучение/Модель нарушителя.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133225.png",
@@ -233,7 +238,6 @@
     "Cybersecurity/02_Обучение/Уязвимость.md",
     "Cybersecurity/02_Обучение/ВУЛ.md",
     "Cybersecurity/02_Обучение/Угроза.md",
-    "Cybersecurity/02_Обучение/Модель нарушителя.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/02_Обучение/УБИ.md",
@@ -248,8 +252,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260429111128.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428153951.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110813.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428110747.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428110734.png",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
