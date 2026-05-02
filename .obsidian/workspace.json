@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
+                "file": "Cybersecurity/02_Обучение/Приказ ФСТЭК №21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ФЗ-152 \"О персональных данных\""
+              "title": "Приказ ФСТЭК №21"
             }
           }
         ],
@@ -216,10 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/ПДн (Персональные данные).md",
-    "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
-    "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
+    "Cybersecurity/02_Обучение/СЗИ.md",
+    "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
+    "Cybersecurity/02_Обучение/Приказ ФСТЭК №21.md",
     "Cybersecurity/02_Обучение/ИСПДн.md",
+    "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
+    "Cybersecurity/02_Обучение/ПДн (Персональные данные).md",
+    "Cybersecurity/01_Заметки/План подготовки.md",
+    "Cybersecurity/01_Заметки/Untitled.md",
+    "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
     "Cybersecurity/02_Обучение/Оператор информационной системы.md",
     "Cybersecurity/02_Обучение/Информационная система.md",
     "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
@@ -239,11 +244,6 @@
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Идентификация.md",
     "Cybersecurity/02_Обучение/Авторизация.md",
-    "Cybersecurity/01_Заметки/План подготовки.md",
-    "Cybersecurity/02_Обучение/Принцип минимальных привилегий (Principle of Least Privilege).md",
-    "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
-    "Cybersecurity/02_Обучение/Разница и взаимосвязь Угрозы, Уязвимости и Риска.md",
-    "Cybersecurity/02_Обучение/Угроза.md",
     "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
