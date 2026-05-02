@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Принцип минимальных привилегий (Principle of Least Privilege).md",
+                "file": "Cybersecurity/02_Обучение/Аутентификация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Принцип минимальных привилегий (Principle of Least Privilege)"
+              "title": "Аутентификация"
             }
           }
         ],
@@ -216,10 +216,13 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Авторизация.md",
+    "Cybersecurity/02_Обучение/Аутентификация.md",
+    "Cybersecurity/01_Заметки/План подготовки.md",
+    "Cybersecurity/02_Обучение/Принцип минимальных привилегий (Principle of Least Privilege).md",
     "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
     "Cybersecurity/02_Обучение/Разница и взаимосвязь Угрозы, Уязвимости и Риска.md",
     "Cybersecurity/02_Обучение/Угроза.md",
-    "Cybersecurity/01_Заметки/План подготовки.md",
     "Cybersecurity/02_Обучение/ФЗ-63 «Об электронной подписи».md",
     "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
@@ -228,7 +231,6 @@
     "Cybersecurity/02_Обучение/Защита от непреднамеренного воздействия.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/02_Обучение/1.7_Моделирование угроз ИБ.md",
-    "Cybersecurity/02_Обучение/Авторизация.md",
     "Cybersecurity/01_Заметки/Теги.md",
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/СВТ.md",
@@ -240,8 +242,6 @@
     "Cybersecurity/02_Обучение/Двухфакторная аутентификация (2FA).md",
     "Cybersecurity/02_Обучение/Управление доступом (IAM).md",
     "Cybersecurity/02_Обучение/ФЗ-184 \"О техническом регулировании\".md",
-    "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
-    "Cybersecurity/02_Обучение/ФЗ-98 \"О коммерческой тайне\".md",
     "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
