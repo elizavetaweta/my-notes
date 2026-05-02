@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/ФЗ-98 \"О коммерческой тайне\".md",
+                "file": "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ФЗ-98 \"О коммерческой тайне\""
+              "title": "1.1_Информационная безопасность. Основые темы и понятия в ИБ"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 296.5
   },
   "right": {
     "id": "dad97ebf8fb16cd5",
@@ -216,8 +217,13 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Уязвимость.md",
+    "Cybersecurity/02_Обучение/Информация.md",
+    "Cybersecurity/02_Обучение/149-ФЗ «Об информации, информационных технологиях и о защите информации».md",
+    "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
     "Cybersecurity/02_Обучение/Участники и Программа аудита.md",
+    "Cybersecurity/02_Обучение/Уязвимость.md",
+    "Cybersecurity/02_Обучение/ФЗ-98 \"О коммерческой тайне\".md",
+    "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
     "Cybersecurity/02_Обучение/ФЗ-99 \"О лицензировании отдельных видов деятельности\".md",
     "Cybersecurity/02_Обучение/Целостность.md",
     "Cybersecurity/02_Обучение/Электронная подпись.md",
@@ -226,8 +232,6 @@
     "Cybersecurity/02_Обучение/Аутентификация.md",
     "all_notes_from_obsidian.txt",
     "Cybersecurity/02_Обучение/ПАК.md",
-    "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
-    "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Идентификация.md",
     "Cybersecurity/02_Обучение/Авторизация.md",
@@ -241,9 +245,6 @@
     "Cybersecurity/02_Обучение/Защита от непреднамеренного воздействия.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/02_Обучение/1.7_Моделирование угроз ИБ.md",
-    "Cybersecurity/01_Заметки/Теги.md",
-    "Cybersecurity/02_Обучение/СВТ.md",
-    "Cybersecurity/02_Обучение/Бесперебойное питание (ИБП).md",
     "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260426133600.png",
