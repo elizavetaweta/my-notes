@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Аутентификация.md",
+                "file": "Cybersecurity/02_Обучение/Электронная подпись.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аутентификация"
+              "title": "Электронная подпись"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 289.5
   },
   "right": {
     "id": "dad97ebf8fb16cd5",
@@ -216,13 +216,14 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Этапы проведения аудита ИБ.md",
+    "Cybersecurity/02_Обучение/Аутентификация.md",
     "all_notes_from_obsidian.txt",
     "Cybersecurity/02_Обучение/ПАК.md",
     "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
     "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Идентификация.md",
-    "Cybersecurity/02_Обучение/Аутентификация.md",
     "Cybersecurity/02_Обучение/Авторизация.md",
     "Cybersecurity/01_Заметки/План подготовки.md",
     "Cybersecurity/02_Обучение/Принцип минимальных привилегий (Principle of Least Privilege).md",
@@ -262,7 +263,6 @@
     "Cybersecurity/01_Заметки",
     "plugins_info",
     "Untitled.base",
-    "00_Inbox/Untitled",
     "Untitled.canvas"
   ]
 }
