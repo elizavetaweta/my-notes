@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Система контроля версий.md",
+                "file": "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Система контроля версий"
+              "title": "ФЗ-152 \"О персональных данных\""
             }
           }
         ],
@@ -217,8 +217,10 @@
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
     "Cybersecurity/02_Обучение/Триада КЦД.md",
-    "Cybersecurity/02_Обучение/ГОСТ Р 50922-2006.md",
     "Cybersecurity/02_Обучение/1.1_Информационная безопасность. Основые темы и понятия в ИБ.md",
+    "Cybersecurity/02_Обучение/Система контроля версий.md",
+    "Cybersecurity/02_Обучение/Хеширование.md",
+    "Cybersecurity/02_Обучение/ГОСТ Р 50922-2006.md",
     "Cybersecurity/02_Обучение/1.2_Информация с ограниченным доступом (тайны).md",
     "Cybersecurity/02_Обучение/Как выстраивать работу с ИОД.md",
     "Cybersecurity/02_Обучение/Закон о государственной тайне (Закон № 5485-1).md",
@@ -240,8 +242,6 @@
     "Cybersecurity/02_Обучение/Уязвимость.md",
     "Cybersecurity/02_Обучение/ФЗ-98 \"О коммерческой тайне\".md",
     "Cybersecurity/02_Обучение/ФЗ-99 \"О лицензировании отдельных видов деятельности\".md",
-    "Cybersecurity/02_Обучение/Целостность.md",
-    "Cybersecurity/02_Обучение/Электронная подпись.md",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
     "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
