@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
+                "file": "Cybersecurity/02_Обучение/Закон о государственной тайне (Закон № 5485-1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ФЗ-152 \"О персональных данных\""
+              "title": "Закон о государственной тайне (Закон № 5485-1)"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#law",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,8 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f239f42e1808f1a",
+  "active": "174a98e1fcd00064",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/ФЗ-98 \"О коммерческой тайне\".md",
+    "Cybersecurity/02_Обучение/ФЗ-152 \"О персональных данных\".md",
+    "Cybersecurity/02_Обучение/ФЗ-149 \"Об информации, информационных технологиях и о защите информации\".md",
     "Cybersecurity/02_Обучение/ФЗ-99 \"О лицензировании отдельных видов деятельности\".md",
     "Cybersecurity/02_Обучение/СТС.md",
     "Cybersecurity/02_Обучение/Лицензирование.md",
@@ -239,9 +243,6 @@
     "Cybersecurity/02_Обучение/Защита от утечек по техническим каналам (УТК).md",
     "Cybersecurity/02_Обучение/Защита информации (ЗИ).md",
     "Cybersecurity/02_Обучение/ГОСТ Р 50922-2006.md",
-    "Cybersecurity/02_Обучение/Техническая защита.md",
-    "Cybersecurity/02_Обучение/Правовая защита.md",
-    "Cybersecurity/02_Обучение/Защита от разведки.md",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
     "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
