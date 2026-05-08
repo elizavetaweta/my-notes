@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Шифр.md",
+                "file": "Cybersecurity/02_Обучение/Подстановка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шифр"
+              "title": "Подстановка"
             }
           }
         ],
@@ -216,9 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Комбинированные (композиционные) шифры.md",
+    "Cybersecurity/02_Обучение/Подстановка.md",
+    "Cybersecurity/02_Обучение/Шифр.md",
+    "Cybersecurity/02_Обучение/Перестановка.md",
+    "Cybersecurity/02_Обучение/Шифртекст.md",
+    "Cybersecurity/02_Обучение/Блочный шифр.md",
+    "Cybersecurity/02_Обучение/Потоковый шифр.md",
     "Cybersecurity/02_Обучение/DES.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
-    "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Магма.md",
     "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
     "Cybersecurity/02_Обучение/Железнодорожная изгородь.md",
@@ -238,11 +244,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
     "Cybersecurity/02_Обучение/УБИ.md",
     "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
-    "Cybersecurity/02_Обучение/ПАК.md",
-    "Cybersecurity/02_Обучение/ЛВС.md",
-    "Cybersecurity/02_Обучение/Ключ.md",
-    "Cybersecurity/02_Обучение/Информационная система.md",
-    "Cybersecurity/02_Обучение/Информация.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
     "Excalidraw",
     "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
