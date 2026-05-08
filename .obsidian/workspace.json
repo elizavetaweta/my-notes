@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Хеширование.md",
+                "file": "Cybersecurity/02_Обучение/Соль.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хеширование"
+              "title": "Соль"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "криптография",
+                "query": "соль",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,6 +217,10 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Как работает проверка пароля, если он захеширован.md",
+    "Cybersecurity/02_Обучение/Соль.md",
+    "Cybersecurity/02_Обучение/Хеширование.md",
+    "Cybersecurity/02_Обучение/Хеш-функция.md",
     "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Асимметричное шифрование.md",
@@ -241,10 +246,6 @@
     "Cybersecurity/02_Обучение/Ключ.md",
     "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
     "Cybersecurity/02_Обучение/Железнодорожная изгородь.md",
-    "Cybersecurity/02_Обучение/шифр «Энигмы».md",
-    "Cybersecurity/02_Обучение/Атбаш.md",
-    "Cybersecurity/02_Обучение/Шифр Цезаря.md",
-    "Cybersecurity/02_Обучение/Кузнечик.md",
     "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
