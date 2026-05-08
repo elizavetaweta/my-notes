@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Шифр.md",
+                "file": "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шифр"
+              "title": "1.8_Теоретические основы криптографии, симметричные криптосистемы"
             }
           }
         ],
@@ -216,8 +216,12 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Brute-force (Перебор).md",
+    "Cybersecurity/02_Обучение/TLS.md",
+    "Cybersecurity/02_Обучение/ChaCha20.md",
+    "Cybersecurity/02_Обучение/WireGuard.md",
+    "Cybersecurity/02_Обучение/Salsa20.md",
     "Cybersecurity/02_Обучение/Шифр.md",
+    "Cybersecurity/02_Обучение/Brute-force (Перебор).md",
     "Cybersecurity/02_Обучение/Потоковый (поточный) шифр.md",
     "Cybersecurity/02_Обучение/Гаммирование.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
@@ -239,13 +243,9 @@
     "Cybersecurity/02_Обучение/SHA‑3.md",
     "Cybersecurity/02_Обучение/Хеш-функция.md",
     "Cybersecurity/02_Обучение/Коллизия.md",
-    "Cybersecurity/02_Обучение/Симметричное шифрование.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
-    "Cybersecurity/02_Обучение/RC4.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
-    "Cybersecurity/02_Обучение/DES.md",
-    "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
