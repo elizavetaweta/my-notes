@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+                "file": "Cybersecurity/02_Обучение/Криптоанализ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8_Теоретические основы криптографии, симметричные криптосистемы"
+              "title": "Криптоанализ"
             }
           }
         ],
@@ -216,12 +216,22 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Электронная подпись.md",
-    "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
+    "Cybersecurity/02_Обучение/УБИ.md",
+    "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
+    "Cybersecurity/02_Обучение/ПАК.md",
+    "Cybersecurity/02_Обучение/ЛВС.md",
     "Cybersecurity/02_Обучение/Ключ.md",
+    "Cybersecurity/02_Обучение/Информационная система.md",
+    "Cybersecurity/02_Обучение/Информация.md",
+    "Cybersecurity/02_Обучение/Импортозамещение в ИБ.md",
+    "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
     "Cybersecurity/02_Обучение/1.7_Моделирование угроз ИБ.md",
+    "Cybersecurity/02_Обучение/1.6_Лицензирование, аттестация, сертификация.md",
+    "Cybersecurity/02_Обучение/1.5_Классификация и категоризация информации, информационных систем.md",
+    "Cybersecurity/02_Обучение/1.4_Нормативное регулирование в ИБ.md",
+    "Cybersecurity/02_Обучение/Электронная подпись.md",
+    "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
     "Cybersecurity/02_Обучение/Кодирование.md",
     "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/02_Обучение/Шифртекст.md",
@@ -233,16 +243,6 @@
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Хеш-функция.md",
-    "Cybersecurity/02_Обучение/Криптосистемы.md",
-    "Cybersecurity/02_Обучение/Как работает проверка пароля, если он захеширован.md",
-    "Cybersecurity/02_Обучение/Соль (Salt).md",
-    "Cybersecurity/02_Обучение/Перец (Pepper).md",
-    "Cybersecurity/02_Обучение/Асимметричное шифрование.md",
-    "Cybersecurity/02_Обучение/Симметричное шифрование.md",
-    "Cybersecurity/02_Обучение/Симметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Магма.md",
-    "Cybersecurity/02_Обучение/Квадрат Полибия.md",
     "Excalidraw",
     "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508141123.png",
