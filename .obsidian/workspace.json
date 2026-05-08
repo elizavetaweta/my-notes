@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Криптоанализ.md",
+                "file": "Cybersecurity/02_Обучение/Симметричное шифрование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Криптоанализ"
+              "title": "Симметричное шифрование"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/02_Обучение/УБИ.md",
     "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
     "Cybersecurity/02_Обучение/ПАК.md",
@@ -233,7 +234,6 @@
     "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
     "Cybersecurity/02_Обучение/Кодирование.md",
-    "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/02_Обучение/Шифртекст.md",
     "Cybersecurity/02_Обучение/Криптографические алгоритмы.md",
     "Cybersecurity/02_Обучение/Шифр.md",
