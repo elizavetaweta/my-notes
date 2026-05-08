@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Bcrypt.md",
+                "file": "Cybersecurity/02_Обучение/Гаммирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bcrypt"
+              "title": "Гаммирование"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bcrypt",
+                "query": "шифр",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,18 +214,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f239f42e1808f1a",
+  "active": "b8df89bceef341a3",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Scrypt.md",
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Потоковый (поточный) шифр.md",
+    "Cybersecurity/02_Обучение/Гаммирование.md",
+    "Cybersecurity/02_Обучение/Шифр Вернама.md",
+    "Cybersecurity/02_Обучение/SHA‑3 (SHA‑3‑256 и SHA‑3‑512).md",
+    "Cybersecurity/02_Обучение/AES.md",
+    "Cybersecurity/02_Обучение/PCI DSS.md",
+    "Cybersecurity/02_Обучение/Argon2.md",
+    "Cybersecurity/02_Обучение/Соль хеша (Salt).md",
+    "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Bcrypt.md",
+    "Cybersecurity/02_Обучение/Scrypt.md",
     "Cybersecurity/02_Обучение/Радужные таблицы.md",
     "Cybersecurity/02_Обучение/SHA‑2 (SHA‑256 и SHA‑512).md",
-    "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
-    "Cybersecurity/02_Обучение/Соль хеша (Salt).md",
     "Cybersecurity/02_Обучение/Перец хеша (Pepper).md",
     "Cybersecurity/02_Обучение/Перец (Pepper).md",
-    "Cybersecurity/02_Обучение/SHA-3.md",
     "Cybersecurity/02_Обучение/Стрибог.md",
     "Cybersecurity/02_Обучение/SHA‑3.md",
     "Cybersecurity/02_Обучение/Хеш-функция.md",
@@ -234,18 +241,11 @@
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/02_Обучение/RC4.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
-    "Cybersecurity/02_Обучение/AES.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
     "Cybersecurity/02_Обучение/DES.md",
     "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
     "Cybersecurity/02_Обучение/Криптография.md",
-    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Формулы Шеннона.md",
-    "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
-    "Cybersecurity/02_Обучение/Комбинированные (композиционные) шифры.md",
-    "Cybersecurity/02_Обучение/Подстановка.md",
-    "Cybersecurity/02_Обучение/Шифр.md",
-    "Cybersecurity/02_Обучение/Перестановка.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
