@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "хеши",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 9.73795572916667,
   "linkStrength": 0.169189453125,
   "linkDistance": 260,
-  "scale": 0.6757621765136719,
+  "scale": 1.0136432647705078,
   "close": false
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Радужные таблицы.md",
+                "file": "Cybersecurity/02_Обучение/Bcrypt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Радужные таблицы"
+              "title": "Bcrypt"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bcrypt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,12 +216,16 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Хеширование.md",
+    "Cybersecurity/02_Обучение/Scrypt.md",
+    "Cybersecurity/02_Обучение/Bcrypt.md",
     "Cybersecurity/02_Обучение/Радужные таблицы.md",
-    "Cybersecurity/02_Обучение/Перец хеша (Pepper).md",
-    "Cybersecurity/02_Обучение/Соль хеша (Salt).md",
-    "Cybersecurity/02_Обучение/SHA-3.md",
     "Cybersecurity/02_Обучение/SHA‑2 (SHA‑256 и SHA‑512).md",
+    "Cybersecurity/02_Обучение/Хеширование.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
+    "Cybersecurity/02_Обучение/Соль хеша (Salt).md",
+    "Cybersecurity/02_Обучение/Перец хеша (Pepper).md",
+    "Cybersecurity/02_Обучение/Перец (Pepper).md",
+    "Cybersecurity/02_Обучение/SHA-3.md",
     "Cybersecurity/02_Обучение/Стрибог.md",
     "Cybersecurity/02_Обучение/SHA‑3.md",
     "Cybersecurity/02_Обучение/Хеш-функция.md",
@@ -242,9 +246,6 @@
     "Cybersecurity/02_Обучение/Подстановка.md",
     "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Перестановка.md",
-    "Cybersecurity/02_Обучение/Шифртекст.md",
-    "Cybersecurity/02_Обучение/Блочный шифр.md",
-    "Cybersecurity/02_Обучение/Потоковый шифр.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
@@ -254,7 +255,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
-    "Cybersecurity/99_Вложения/Pasted image 20260428110721.png",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
