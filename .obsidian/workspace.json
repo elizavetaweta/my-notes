@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
-                "mode": "source",
+                "file": "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Криптографически стойкий генератор псевдослучайных чисел (CSPRNG)"
+              "title": "1.8_Теоретические основы криптографии, симметричные криптосистемы"
             }
           }
         ],
@@ -216,7 +216,12 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/RSA.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Постквантовая криптография.md",
+    "Cybersecurity/02_Обучение/Квантовый компьютер.md",
+    "Cybersecurity/02_Обучение/ПП РФ №957.md",
+    "Cybersecurity/02_Обучение/AEAD.md",
     "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
     "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
     "Cybersecurity/02_Обучение/Режимы блочного шифрования.md",
@@ -237,12 +242,7 @@
     "Cybersecurity/02_Обучение/Соль хеша (Salt).md",
     "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Bcrypt.md",
-    "Cybersecurity/02_Обучение/Scrypt.md",
-    "Cybersecurity/02_Обучение/Радужные таблицы.md",
-    "Cybersecurity/02_Обучение/SHA‑2 (SHA‑256 и SHA‑512).md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
-    "Cybersecurity/02_Обучение/Перец хеша (Pepper).md",
-    "Cybersecurity/02_Обучение/Перец (Pepper).md",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
