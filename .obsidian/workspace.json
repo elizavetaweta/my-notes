@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+                "file": "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8_Теоретические основы криптографии, симметричные криптосистемы"
+              "title": "Криптографически стойкий генератор псевдослучайных чисел (CSPRNG)"
             }
           }
         ],
@@ -216,6 +216,11 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
+    "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
+    "Cybersecurity/02_Обучение/Режимы блочного шифрования.md",
+    "Cybersecurity/02_Обучение/Имитозащита (MAC).md",
     "Cybersecurity/02_Обучение/TLS.md",
     "Cybersecurity/02_Обучение/ChaCha20.md",
     "Cybersecurity/02_Обучение/WireGuard.md",
@@ -224,7 +229,6 @@
     "Cybersecurity/02_Обучение/Brute-force (Перебор).md",
     "Cybersecurity/02_Обучение/Потоковый (поточный) шифр.md",
     "Cybersecurity/02_Обучение/Гаммирование.md",
-    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Шифр Вернама.md",
     "Cybersecurity/02_Обучение/SHA‑3 (SHA‑3‑256 и SHA‑3‑512).md",
     "Cybersecurity/02_Обучение/AES.md",
@@ -239,10 +243,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Cybersecurity/02_Обучение/Перец хеша (Pepper).md",
     "Cybersecurity/02_Обучение/Перец (Pepper).md",
-    "Cybersecurity/02_Обучение/Стрибог.md",
-    "Cybersecurity/02_Обучение/SHA‑3.md",
-    "Cybersecurity/02_Обучение/Хеш-функция.md",
-    "Cybersecurity/02_Обучение/Коллизия.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
