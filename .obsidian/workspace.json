@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Симметричные криптосистемы.md",
+                "file": "Cybersecurity/02_Обучение/Симметричное шифрование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Симметричные криптосистемы"
+              "title": "Симметричное шифрование"
             }
           }
         ],
@@ -216,17 +216,19 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Криптография.md",
-    "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Симметричное шифрование.md",
+    "Cybersecurity/02_Обучение/Асимметричное шифрование.md",
+    "Cybersecurity/02_Обучение/Криптография.md",
     "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
     "Cybersecurity/02_Обучение/Магма.md",
     "Cybersecurity/02_Обучение/Квадрат Полибия.md",
     "Cybersecurity/02_Обучение/Скитала.md",
     "Excalidraw/Drawing 2026-05-08 14.19.23.excalidraw.md",
     "Excalidraw",
-    "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508141123.png",
     "Cybersecurity/02_Обучение/Рассеивание.md",
@@ -243,8 +245,6 @@
     "Cybersecurity/02_Обучение/Атбаш.md",
     "Cybersecurity/02_Обучение/Шифр Цезаря.md",
     "Cybersecurity/02_Обучение/Кузнечик.md",
-    "Cybersecurity/02_Обучение/Salsa20.md",
-    "Cybersecurity/02_Обучение/RC4.md",
     "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
