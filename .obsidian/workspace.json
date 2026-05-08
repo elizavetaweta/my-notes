@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+                "file": "Cybersecurity/02_Обучение/DES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8_Теоретические основы криптографии, симметричные криптосистемы"
+              "title": "DES"
             }
           }
         ],
@@ -214,10 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8df89bceef341a3",
+  "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
+    "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
+    "Cybersecurity/02_Обучение/Криптография.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Формулы Шеннона.md",
+    "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
     "Cybersecurity/02_Обучение/Комбинированные (композиционные) шифры.md",
     "Cybersecurity/02_Обучение/Подстановка.md",
     "Cybersecurity/02_Обучение/Хеширование.md",
@@ -240,9 +243,6 @@
     "Cybersecurity/02_Обучение/RC4.md",
     "Cybersecurity/02_Обучение/RSA.md",
     "Cybersecurity/02_Обучение/ECC.md",
-    "Cybersecurity/02_Обучение/AES.md",
-    "Cybersecurity/02_Обучение/Симметричное шифрование.md",
-    "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
     "Excalidraw",
