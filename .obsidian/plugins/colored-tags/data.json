@@ -27,6 +27,7 @@
     "status": 10,
     "tech": 15,
     "term": 11,
+    "tip": 21,
     "todo": 12,
     "tool": 13,
     "vuln": 14,

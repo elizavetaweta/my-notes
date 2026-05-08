@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Рассеивание.md",
+                "file": "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Рассеивание"
+              "title": "Теоретические основы криптографии, симметричные криптосистемы"
             }
           }
         ],
@@ -216,10 +216,14 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Управление ключами.md",
+    "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Шифр.md",
+    "Cybersecurity/02_Обучение/Эффект лавины.md",
     "Cybersecurity/02_Обучение/Запутывание.md",
     "Cybersecurity/02_Обучение/Рассеивание.md",
-    "Cybersecurity/02_Обучение/Шифр.md",
-    "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
+    "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/02_Обучение/Ключ.md",
     "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
     "Cybersecurity/02_Обучение/Железнодорожная изгородь.md",
@@ -238,10 +242,6 @@
     "Cybersecurity/02_Обучение/Частотный анализ.md",
     "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/02_Обучение/Шифртекст.md",
-    "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Ассиметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Симметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Кодирование.md",
     "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
