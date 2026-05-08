@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Рассеивание.md",
+                "file": "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Рассеивание"
+              "title": "Теоретические основы криптографии, симметричные криптосистемы"
             }
           }
         ],
@@ -216,12 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
-    "Cybersecurity/02_Обучение/Формулы Шеннона.md",
-    "Cybersecurity/02_Обучение/Запутывание.md",
-    "Cybersecurity/02_Обучение/Рассеивание.md",
-    "Cybersecurity/02_Обучение/Управление ключами.md",
     "Cybersecurity/02_Обучение/Шифр.md",
+    "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Криптография.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260508141123.png",
+    "Cybersecurity/02_Обучение/Рассеивание.md",
+    "Cybersecurity/02_Обучение/Запутывание.md",
+    "Cybersecurity/02_Обучение/Формулы Шеннона.md",
+    "Cybersecurity/02_Обучение/Управление ключами.md",
     "Cybersecurity/02_Обучение/Эффект лавины.md",
     "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
     "Cybersecurity/02_Обучение/Криптоанализ.md",
@@ -241,7 +244,6 @@
     "Cybersecurity/02_Обучение/DES.md",
     "Cybersecurity/02_Обучение/AES.md",
     "Cybersecurity/02_Обучение/Частотный анализ.md",
-    "Cybersecurity/02_Обучение/Триада КЦД.md",
     "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
@@ -252,8 +254,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260429141809.png",
     "Cybersecurity/99_Вложения/Pasted image 20260429134800.png",
     "Cybersecurity/99_Вложения/Pasted image 20260429134737.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260429111128.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260428153951.png",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
