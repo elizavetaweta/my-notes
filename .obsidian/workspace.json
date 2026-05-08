@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Подстановка.md",
+                "file": "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подстановка"
+              "title": "1.8_Теоретические основы криптографии, симметричные криптосистемы"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "соль",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,10 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f239f42e1808f1a",
+  "active": "b8df89bceef341a3",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Комбинированные (композиционные) шифры.md",
     "Cybersecurity/02_Обучение/Подстановка.md",
+    "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Перестановка.md",
     "Cybersecurity/02_Обучение/Шифртекст.md",
@@ -226,7 +229,6 @@
     "Cybersecurity/02_Обучение/DES.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
     "Cybersecurity/02_Обучение/Магма.md",
-    "Cybersecurity/02_Обучение/ГОСТ 28147-89.md",
     "Cybersecurity/02_Обучение/Железнодорожная изгородь.md",
     "Cybersecurity/02_Обучение/Квадрат Полибия.md",
     "Cybersecurity/02_Обучение/Скитала.md",
@@ -242,8 +244,6 @@
     "Cybersecurity/02_Обучение/Симметричное шифрование.md",
     "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
-    "Cybersecurity/02_Обучение/УБИ.md",
-    "Cybersecurity/02_Обучение/Разбор кейса — Как определить актив.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
     "Excalidraw",
     "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
