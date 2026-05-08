@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Хеширование.md",
+                "file": "Cybersecurity/02_Обучение/Шифр.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хеширование"
+              "title": "Шифр"
             }
           }
         ],
@@ -216,12 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Криптографические алгоритмы.md",
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Электронная подпись.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
     "Cybersecurity/02_Обучение/Криптография.md",
+    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Хеш-функция.md",
     "Cybersecurity/02_Обучение/Криптосистемы.md",
-    "Cybersecurity/02_Обучение/Криптографические алгоритмы.md",
     "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Как работает проверка пароля, если он захеширован.md",
     "Cybersecurity/02_Обучение/Соль (Salt).md",
@@ -242,9 +245,6 @@
     "Cybersecurity/02_Обучение/Запутывание.md",
     "Cybersecurity/02_Обучение/Формулы Шеннона.md",
     "Cybersecurity/02_Обучение/Управление ключами.md",
-    "Cybersecurity/02_Обучение/Эффект лавины.md",
-    "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
-    "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
@@ -254,7 +254,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260426133225.png",
     "Cybersecurity/99_Вложения/Pasted image 20260429141809.png",
     "Cybersecurity/99_Вложения/Pasted image 20260429134800.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260429134737.png",
     "Cybersecurity/04_Практические задания и примеры",
     "ГОСТ Р ИСО",
     "Cybersecurity/01_Заметки/Untitled.canvas",
