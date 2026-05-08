@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Формулы Шеннона.md",
+                "file": "Cybersecurity/02_Обучение/Рассеивание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Формулы Шеннона"
+              "title": "Рассеивание"
             }
           }
         ],
@@ -216,13 +216,13 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Запутывание.md",
-    "Cybersecurity/02_Обучение/Формулы Шеннона.md",
     "Cybersecurity/02_Обучение/Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Формулы Шеннона.md",
+    "Cybersecurity/02_Обучение/Запутывание.md",
+    "Cybersecurity/02_Обучение/Рассеивание.md",
     "Cybersecurity/02_Обучение/Управление ключами.md",
     "Cybersecurity/02_Обучение/Шифр.md",
     "Cybersecurity/02_Обучение/Эффект лавины.md",
-    "Cybersecurity/02_Обучение/Рассеивание.md",
     "Cybersecurity/02_Обучение/Шпаргалка - Стойкость ключей.md",
     "Cybersecurity/02_Обучение/Криптоанализ.md",
     "Cybersecurity/02_Обучение/Ключ.md",
