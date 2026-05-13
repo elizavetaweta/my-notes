@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -217,6 +217,9 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/99_Вложения/Pasted image 20260513164701.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260513164633.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260513164150.png",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513161722.png",
@@ -250,8 +253,6 @@
     "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
     "Excalidraw",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
