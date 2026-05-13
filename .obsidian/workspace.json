@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Сертификат открытого ключа.md",
+                "file": "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сертификат открытого ключа"
+              "title": "Нормативное регулирование криптографии в РФ"
             }
           }
         ],
@@ -216,14 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/TLS.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260513170341.png",
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Сертификат открытого ключа.md",
+    "Cybersecurity/02_Обучение/TLS.md",
     "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
     "Cybersecurity/02_Обучение/Сертификация СЗИ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513164701.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513164633.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513164150.png",
-    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513161722.png",
     "Cybersecurity/02_Обучение/Ключ.md",
@@ -250,7 +251,6 @@
     "Cybersecurity/02_Обучение/Hashcat.md",
     "Cybersecurity/03_Инструменты/Для чего.md",
     "Cybersecurity/02_Обучение/Постквантовая криптография.md",
-    "Cybersecurity/02_Обучение/Квантовый компьютер.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Excalidraw",
     "all_notes_full.txt",
