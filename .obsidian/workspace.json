@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
+                "file": "Cybersecurity/02_Обучение/Практика по криптографии (Уровень 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нормативное регулирование криптографии в РФ"
+              "title": "Практика по криптографии (Уровень 1)"
             }
           }
         ],
@@ -216,8 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/99_Вложения/Pasted image 20260513170341.png",
+    "Cybersecurity/04_Практические задания и примеры/Практика по криптографии — карта ресурсов.md",
+    "Cybersecurity/02_Обучение/Практика по криптографии (Уровень 1).md",
+    "Cybersecurity/04_Практические задания и примеры/Практические задания и примеры.md",
+    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
+    "Cybersecurity/02_Обучение/0_MOC Отрасли ИБ.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
+    "Cybersecurity/03_Инструменты/Для чего раздел.md",
+    "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260513170341.png",
     "Cybersecurity/02_Обучение/Сертификат открытого ключа.md",
     "Cybersecurity/02_Обучение/TLS.md",
     "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
@@ -242,16 +249,9 @@
     "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513151438.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513151422.png",
-    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Стеганография.md",
     "Cybersecurity/02_Обучение/Правдоподобное отрицание.md",
     "Cybersecurity/02_Обучение/Хеш - Как определить тип хеша.md",
-    "Cybersecurity/02_Обучение/Хеширование.md",
-    "Cybersecurity/02_Обучение/Эффект лавины.md",
-    "Cybersecurity/02_Обучение/Hashcat.md",
-    "Cybersecurity/03_Инструменты/Для чего.md",
-    "Cybersecurity/02_Обучение/Постквантовая криптография.md",
-    "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Excalidraw",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
