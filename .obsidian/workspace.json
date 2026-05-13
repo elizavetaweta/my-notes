@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Хеш - Как определить тип хеша.md",
+                "file": "Cybersecurity/03_Инструменты/Hashcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хеш - Как определить тип хеша"
+              "title": "Hashcat"
             }
           }
         ],
@@ -216,8 +216,8 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Хеш - Как определить тип хеша.md",
+    "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/03_Инструменты/Hashcat.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Эффект лавины.md",
