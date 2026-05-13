@@ -216,6 +216,8 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/03_Инструменты/Hashcat.md",
+    "Cybersecurity/03_Инструменты/Veracrypt.md",
     "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
@@ -224,8 +226,6 @@
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/Стеганография.md",
     "Cybersecurity/02_Обучение/Правдоподобное отрицание.md",
-    "Cybersecurity/03_Инструменты/Veracrypt.md",
-    "Cybersecurity/03_Инструменты/Hashcat.md",
     "Cybersecurity/02_Обучение/Хеш - Как определить тип хеша.md",
     "Cybersecurity/02_Обучение/Хеширование.md",
     "Cybersecurity/02_Обучение/Эффект лавины.md",
