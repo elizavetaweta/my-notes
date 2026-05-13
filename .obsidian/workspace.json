@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Стеганография.md",
+                "file": "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стеганография"
+              "title": "Асимметричные криптосистемы"
             }
           }
         ],
@@ -216,7 +216,11 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260513151438.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260513151422.png",
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
+    "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Стеганография.md",
     "Cybersecurity/02_Обучение/Правдоподобное отрицание.md",
     "Cybersecurity/03_Инструменты/Veracrypt.md",
@@ -239,9 +243,6 @@
     "Cybersecurity/02_Обучение/ChaCha20.md",
     "Cybersecurity/02_Обучение/WireGuard.md",
     "Cybersecurity/02_Обучение/Salsa20.md",
-    "Cybersecurity/02_Обучение/Шифр.md",
-    "Cybersecurity/02_Обучение/Brute-force (Перебор).md",
-    "Cybersecurity/02_Обучение/Потоковый (поточный) шифр.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
@@ -252,7 +253,6 @@
     "Excalidraw",
     "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508141123.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260505133239.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
     "Cybersecurity/04_Практические задания и примеры",
