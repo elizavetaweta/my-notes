@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/OpenSSL.md",
+                "file": "Cybersecurity/02_Обучение/Электронная подпись.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenSSL"
+              "title": "Электронная подпись"
             }
           }
         ],
@@ -216,8 +216,15 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/03_Инструменты/Veracrypt.md",
+    "Cybersecurity/99_Вложения/Pasted image 20260513160753.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260513160735.png",
+    "Cybersecurity/99_Вложения/Pasted image 20260513160657.png",
+    "Cybersecurity/02_Обучение/Шифр «Энигмы».md",
+    "Cybersecurity/02_Обучение/Шифр Цезаря.md",
+    "Cybersecurity/02_Обучение/Шифртекст.md",
+    "Cybersecurity/02_Обучение/RSA.md",
     "Cybersecurity/03_Инструменты/OpenSSL.md",
+    "Cybersecurity/03_Инструменты/Veracrypt.md",
     "Cybersecurity/03_Инструменты/Hashcat.md",
     "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
@@ -232,7 +239,6 @@
     "Cybersecurity/02_Обучение/Эффект лавины.md",
     "Cybersecurity/02_Обучение/Hashcat.md",
     "Cybersecurity/03_Инструменты/Для чего.md",
-    "Cybersecurity/02_Обучение/RSA.md",
     "Cybersecurity/02_Обучение/Постквантовая криптография.md",
     "Cybersecurity/02_Обучение/Квантовый компьютер.md",
     "Cybersecurity/02_Обучение/ПП РФ №957.md",
@@ -240,19 +246,13 @@
     "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
     "Cybersecurity/02_Обучение/Режимы блочного шифрования.md",
     "Cybersecurity/02_Обучение/Имитозащита (MAC).md",
-    "Cybersecurity/02_Обучение/TLS.md",
-    "Cybersecurity/02_Обучение/ChaCha20.md",
-    "Cybersecurity/02_Обучение/WireGuard.md",
-    "Cybersecurity/02_Обучение/Salsa20.md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508180001.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260508152248.png",
     "Excalidraw",
-    "Cybersecurity/99_Вложения/Pasted image 20260508141315.png",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
     "Cybersecurity/04_Практические задания и примеры",
