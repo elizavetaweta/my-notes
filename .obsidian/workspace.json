@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
+                "file": "Cybersecurity/03_Инструменты/Veracrypt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обмен ключами (Diffie-Hellman) и PFS"
+              "title": "Veracrypt"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,6 +216,7 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513151438.png",
@@ -237,7 +237,6 @@
     "Cybersecurity/02_Обучение/ПП РФ №957.md",
     "Cybersecurity/02_Обучение/AEAD.md",
     "Cybersecurity/02_Обучение/Криптографически стойкий генератор псевдослучайных чисел (CSPRNG).md",
-    "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
     "Cybersecurity/02_Обучение/Режимы блочного шифрования.md",
     "Cybersecurity/02_Обучение/Имитозащита (MAC).md",
     "Cybersecurity/02_Обучение/TLS.md",
