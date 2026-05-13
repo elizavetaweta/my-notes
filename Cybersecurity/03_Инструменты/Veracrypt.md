@@ -1,4 +1,4 @@
-#tool #must-know #crypto #lab
+#tool #must-know #crypto #lab #cmd
 
 # 🛡️ VeraCrypt — инструмент для шифрования данных
 
