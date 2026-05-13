@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/Hashcat.md",
+                "file": "Cybersecurity/03_Инструменты/Veracrypt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashcat"
+              "title": "Veracrypt"
             }
           }
         ],
@@ -216,9 +216,10 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/03_Инструменты/Hashcat.md",
+    "Cybersecurity/03_Инструменты/Veracrypt.md",
     "Cybersecurity/02_Обучение/Хеш - Как определить тип хеша.md",
     "Cybersecurity/02_Обучение/Хеширование.md",
-    "Cybersecurity/03_Инструменты/Hashcat.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Эффект лавины.md",
     "Cybersecurity/02_Обучение/Hashcat.md",
@@ -241,7 +242,6 @@
     "Cybersecurity/02_Обучение/Потоковый (поточный) шифр.md",
     "Cybersecurity/02_Обучение/Гаммирование.md",
     "Cybersecurity/02_Обучение/Шифр Вернама.md",
-    "Cybersecurity/02_Обучение/SHA‑3 (SHA‑3‑256 и SHA‑3‑512).md",
     "Cybersecurity/99_Вложения/Pasted image 20260508200532.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
