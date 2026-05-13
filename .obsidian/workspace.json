@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/OpenSSL.md",
+                "file": "Cybersecurity/03_Инструменты/Командная строка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenSSL"
+              "title": "Командная строка"
             }
           }
         ],
@@ -216,9 +216,11 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/03_Инструменты/Для чего раздел.md",
+    "Cybersecurity/03_Инструменты/Командная строка.md",
+    "Cybersecurity/03_Инструменты/OpenSSL.md",
     "Cybersecurity/03_Инструменты/Veracrypt.md",
     "Cybersecurity/03_Инструменты/Hashcat.md",
-    "Cybersecurity/03_Инструменты/OpenSSL.md",
     "Cybersecurity/02_Обучение/Симметричное шифрование.md",
     "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Рукопожатие.md",
@@ -238,11 +240,9 @@
     "Cybersecurity/04_Практические задания и примеры/Практические задания и примеры.md",
     "Cybersecurity/02_Обучение/1_Обзор Модуля 1.md.md",
     "Cybersecurity/02_Обучение/0_MOC Отрасли ИБ.md",
-    "Cybersecurity/03_Инструменты/Для чего раздел.md",
     "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513170341.png",
     "Cybersecurity/02_Обучение/Сертификат открытого ключа.md",
-    "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
     "Cybersecurity/99_Вложения/Pasted image 20260513164701.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513164633.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513164150.png",
