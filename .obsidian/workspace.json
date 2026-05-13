@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Электронная подпись.md",
-                "mode": "source",
+                "file": "Cybersecurity/02_Обучение/Инфраструктура открытых ключей (PKI).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Электронная подпись"
+              "title": "Инфраструктура открытых ключей (PKI)"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Обмен ключами",
+                "query": "pki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,9 +217,10 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
+    "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513161722.png",
     "Cybersecurity/02_Обучение/Ключ.md",
-    "Cybersecurity/02_Обучение/Электронная подпись.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513160753.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513160735.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513160657.png",
@@ -230,7 +232,6 @@
     "Cybersecurity/03_Инструменты/Veracrypt.md",
     "Cybersecurity/03_Инструменты/Hashcat.md",
     "Cybersecurity/02_Обучение/Обмен ключами (Diffie-Hellman) и PFS.md",
-    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы.md",
     "Cybersecurity/02_Обучение/Асимметричные криптосистемы.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513151438.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513151422.png",
@@ -251,7 +252,6 @@
     "Cybersecurity/99_Вложения/Pasted image 20260508192909.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192413.png",
     "Cybersecurity/99_Вложения/Pasted image 20260508192302.png",
-    "Cybersecurity/99_Вложения/Pasted image 20260508181657.png",
     "Excalidraw",
     "all_notes_full.txt",
     "all_notes_from_obsidian.txt",
