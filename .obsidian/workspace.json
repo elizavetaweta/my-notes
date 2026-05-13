@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/Командная строка.md",
+                "file": "Cybersecurity/03_Инструменты/OpenSSL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Командная строка"
+              "title": "OpenSSL"
             }
           }
         ],
@@ -216,8 +216,8 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
-    "Cybersecurity/03_Инструменты/Для чего раздел.md",
     "Cybersecurity/03_Инструменты/Командная строка.md",
+    "Cybersecurity/03_Инструменты/Для чего раздел.md",
     "Cybersecurity/03_Инструменты/OpenSSL.md",
     "Cybersecurity/03_Инструменты/Veracrypt.md",
     "Cybersecurity/03_Инструменты/Hashcat.md",
