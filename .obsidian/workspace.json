@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/ГОСТ Р 57580.1.md",
+                "file": "Cybersecurity/03_Инструменты/OpenSSL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ГОСТ Р 57580.1"
+              "title": "OpenSSL"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "9f239f42e1808f1a",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/ГОСТ Р 57580.1.md",
     "Cybersecurity/03_Инструменты/Командная строка.md",
     "Cybersecurity/03_Инструменты/OpenSSL.md",
     "Cybersecurity/03_Инструменты/Для чего раздел.md",
@@ -242,7 +243,6 @@
     "Cybersecurity/02_Обучение/0_MOC Отрасли ИБ.md",
     "Cybersecurity/02_Обучение/Нормативное регулирование криптографии в РФ.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513170341.png",
-    "Cybersecurity/02_Обучение/Сертификат открытого ключа.md",
     "Cybersecurity/99_Вложения/Pasted image 20260513164701.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513164633.png",
     "Cybersecurity/99_Вложения/Pasted image 20260513164150.png",
