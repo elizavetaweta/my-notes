@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "#linux",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.45818684895833,
+  "lineSizeMultiplier": 1.13798014322917,
+  "collapse-forces": false,
+  "centerStrength": 0.579182942708333,
+  "repelStrength": 9.73795572916667,
+  "linkStrength": 0.169189453125,
+  "linkDistance": 260,
+  "scale": 0.6757621765136719,
+  "close": false
+}

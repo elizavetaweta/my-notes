@@ -1,0 +1,44 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "101-ubuntu": 25,
+    "audit": 23,
+    "case": 18,
+    "cmd": 1,
+    "crypto": 20,
+    "exploit": 3,
+    "grep": 26,
+    "lab": 4,
+    "law": 5,
+    "legal": 17,
+    "linux": 24,
+    "moc": 22,
+    "must-know": 6,
+    "payload": 7,
+    "protection": 16,
+    "question": 8,
+    "regulator": 9,
+    "standard": 19,
+    "status": 10,
+    "tech": 15,
+    "term": 11,
+    "tip": 21,
+    "todo": 12,
+    "tool": 13,
+    "vuln": 14,
+    "status/draft": 1,
+    "status/final": 2,
+    "term/concept": 1
+  },
+  "tagColors": {},
+  "_version": 4
+}
