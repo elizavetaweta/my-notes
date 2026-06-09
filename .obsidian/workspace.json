@@ -453,16 +453,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Анализ безопасности веб-сервера..md",
+                "file": "Cybersecurity/03_Инструменты/cd.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анализ безопасности веб-сервера."
+              "title": "cd"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -651,12 +651,12 @@
       "learnkit:LearnKit": false
     }
   },
-  "active": "d044967e82c72d43",
+  "active": "08b7475e7ff7fb03",
   "lastOpenFiles": [
-    "Cybersecurity/03_Инструменты/cd.md",
-    "Cybersecurity/02_Обучение/Анализ безопасности веб-сервера..md",
     "Cybersecurity/03_Инструменты/Командная строка.md",
     "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
+    "Cybersecurity/02_Обучение/Анализ безопасности веб-сервера..md",
+    "Cybersecurity/03_Инструменты/cd.md",
     "Cybersecurity/03_Инструменты/touch.md",
     "Cybersecurity/03_Инструменты/pwd.md",
     "Cybersecurity/01_Заметки/LearnKit.md",
