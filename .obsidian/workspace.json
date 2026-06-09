@@ -22,461 +22,35 @@
             }
           },
           {
-            "id": "870084d90abbea20",
+            "id": "3e53b844109980c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/echo.md",
+                "file": "Cybersecurity/02_Обучение/Шестнадцатеричный формат (Hex или 0-9a-f).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "echo"
+              "title": "Шестнадцатеричный формат (Hex или 0-9a-f)"
             }
           },
           {
-            "id": "48ae5cb8213e0983",
+            "id": "f09cb20531589ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/echo.md",
+                "file": "Cybersecurity/02_Обучение/Специальные символы в регулярных выражениях (Regex).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "echo"
+              "title": "Специальные символы в регулярных выражениях (Regex)"
             }
           },
           {
-            "id": "3f2596aa85baecd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/echo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "echo"
-            }
-          },
-          {
-            "id": "107bbb241484de59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Поиск и аудит файлов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Поиск и аудит файлов"
-            }
-          },
-          {
-            "id": "dfdb29e678360891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Обозначение прав доступа в Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обозначение прав доступа в Linux"
-            }
-          },
-          {
-            "id": "dfadf4d7885de055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/dev null.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dev null"
-            }
-          },
-          {
-            "id": "6b4cad541ce7388c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Обозначение прав доступа в Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обозначение прав доступа в Linux"
-            }
-          },
-          {
-            "id": "d96852bfd4e1d843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Перенаправления и конвейеры.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Перенаправления и конвейеры"
-            }
-          },
-          {
-            "id": "4fab7f5d6d687bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/traceroute.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "traceroute"
-            }
-          },
-          {
-            "id": "a169502d65aed271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Инкапсуляция (сетевая).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Инкапсуляция (сетевая)"
-            }
-          },
-          {
-            "id": "d45f5f14a224c043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "find"
-            }
-          },
-          {
-            "id": "71115b7b484b6342",
-            "type": "leaf",
-            "state": {
-              "type": "learnkit-note-review",
-              "state": {},
-              "icon": "notebook-text",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "ae7065a47aa256e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Сетевые технологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сетевые технологии"
-            }
-          },
-          {
-            "id": "be825624b4f91d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Три временных теста -mtime -atime -ctime.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Три временных теста -mtime -atime -ctime"
-            }
-          },
-          {
-            "id": "31a0b0aa5d149cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/uniq.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "uniq"
-            }
-          },
-          {
-            "id": "d585afad56b56e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "grep"
-            }
-          },
-          {
-            "id": "704cfb1d82eb0e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/ps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ps"
-            }
-          },
-          {
-            "id": "7ac5d3450100ddfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Сетевые технологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сетевые технологии"
-            }
-          },
-          {
-            "id": "80942348bec4b184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2_Обзор модуля 2"
-            }
-          },
-          {
-            "id": "29e74944113278f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2_Обзор модуля 2"
-            }
-          },
-          {
-            "id": "1416a2c0cac9e677",
-            "type": "leaf",
-            "state": {
-              "type": "learnkit-settings",
-              "state": {},
-              "icon": "settings",
-              "title": "Settings"
-            }
-          },
-          {
-            "id": "9678e26d85ba84c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/01_Заметки/LearnKit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LearnKit"
-            }
-          },
-          {
-            "id": "9cbed003fca37738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Сетевые технологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сетевые технологии"
-            }
-          },
-          {
-            "id": "36a7323b09a7e2ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Сетевые технологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сетевые технологии"
-            }
-          },
-          {
-            "id": "798671eb0dfb2346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Узел сети (Network Node).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Узел сети (Network Node)"
-            }
-          },
-          {
-            "id": "aafaa266ba274112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/01_Заметки/План подготовки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "План подготовки"
-            }
-          },
-          {
-            "id": "2c325f05eddc93ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Хост (host).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Хост (host)"
-            }
-          },
-          {
-            "id": "f8621dc75f6c5ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Хост (host).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Хост (host)"
-            }
-          },
-          {
-            "id": "2cee6de5aaeb4e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Хост (host).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Хост (host)"
-            }
-          },
-          {
-            "id": "91a0e23808fe381b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/Командная строка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Командная строка"
-            }
-          },
-          {
-            "id": "207266d260f782b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/touch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "touch"
-            }
-          },
-          {
-            "id": "d044967e82c72d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/cd.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cd"
-            }
-          },
-          {
-            "id": "2376025fc64a0a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Самопроверка по Linux"
-            }
-          },
-          {
-            "id": "e94e3b13baf52d1d",
+            "id": "8e6ba05332309d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -490,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -522,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Regex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -530,7 +104,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -679,34 +253,34 @@
       "learnkit:LearnKit": false
     }
   },
-  "active": "e94e3b13baf52d1d",
+  "active": "f09cb20531589ccf",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
     "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
-    "Cybersecurity/03_Инструменты/cd.md",
-    "Cybersecurity/03_Инструменты/Командная строка.md",
-    "Cybersecurity/02_Обучение/Анализ безопасности веб-сервера..md",
-    "Cybersecurity/03_Инструменты/touch.md",
-    "Cybersecurity/03_Инструменты/pwd.md",
-    "Cybersecurity/01_Заметки/LearnKit.md",
-    "Cybersecurity/02_Обучение/Хост (host).md",
-    "Cybersecurity/02_Обучение/Сетевые технологии.md",
-    "Cybersecurity/02_Обучение/Узел сети (Network Node).md",
-    "Cybersecurity/01_Заметки/План подготовки.md",
-    "Cybersecurity/02_Обучение/ГосСОПКА.md",
-    "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
-    "Cybersecurity/02_Обучение/Стек протоколов TCP IP.md",
-    "Cybersecurity/02_Обучение/IP-адрес.md",
-    "Cybersecurity/02_Обучение/1.8_Теоретические основы криптографии, симметричные и ассиметричные криптосистемы, кодирование.md",
-    "Cybersecurity/03_Инструменты/date.md",
-    "Cybersecurity/03_Инструменты/find.md",
+    "Cybersecurity/02_Обучение/Специальные символы в регулярных выражениях (Regex).md",
+    "Cybersecurity/02_Обучение/Шестнадцатеричный формат (Hex или 0-9a-f).md",
+    "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
     "Cybersecurity/03_Инструменты/grep.md",
-    "Cybersecurity/03_Инструменты/at.md",
-    "Cybersecurity/03_Инструменты/chmod.md",
-    "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Обработка и преобразование текста.md",
-    "Cybersecurity/02_Обучение/Кадр (Frame).md",
-    "Cybersecurity/02_Обучение/Пакет (сетевой).md",
-    "Cybersecurity/02_Обучение/Хоп (Hop).md",
+    "Cybersecurity/02_Обучение/dev null.md",
+    "Cybersecurity/03_Инструменты/echo.md",
+    "Cybersecurity/03_Инструменты/cd.md",
+    "Cybersecurity/03_Инструменты/touch.md",
+    "Cybersecurity/03_Инструменты/Командная строка.md",
+    "Cybersecurity/02_Обучение/Хост (host).md",
+    "Cybersecurity/01_Заметки/План подготовки.md",
+    "Cybersecurity/02_Обучение/Узел сети (Network Node).md",
+    "Cybersecurity/02_Обучение/Сетевые технологии.md",
+    "Cybersecurity/01_Заметки/LearnKit.md",
+    "Cybersecurity/03_Инструменты/ps.md",
+    "Cybersecurity/03_Инструменты/uniq.md",
+    "Cybersecurity/02_Обучение/Три временных теста -mtime -atime -ctime.md",
+    "Cybersecurity/03_Инструменты/find.md",
+    "Cybersecurity/02_Обучение/Инкапсуляция (сетевая).md",
+    "Cybersecurity/02_Обучение/traceroute.md",
+    "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Перенаправления и конвейеры.md",
+    "Cybersecurity/02_Обучение/Обозначение прав доступа в Linux.md",
+    "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Поиск и аудит файлов.md",
+    "Cybersecurity/02_Обучение/Анализ безопасности веб-сервера..md",
+    "Cybersecurity/03_Инструменты/pwd.md",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110813.png",

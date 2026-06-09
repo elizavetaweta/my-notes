@@ -48,12 +48,17 @@ grep -i "error" file1.txt
 > [!question]- Как найти файлы, содержащие слово «password», во всех вложенных папках?
 > `grep -r "password" /путь/к/папке/`
 
+grep -r "password" /путь
+
 > [!question]- Как посчитать количество строк, в которых встречается «Failed password»?
 > `grep -c "Failed password" /var/log/auth.log`
+
+grep -c "Failed password" file.txt
 
 > [!question]- Как вывести строки, которые НЕ содержат комментарий (не начинаются с `#`)?
 > `grep -v "^#" /etc/ssh/sshd_config`
 
+grep -v "#" /путь/к файлу
 
 ## ❓ Самопроверка
 
