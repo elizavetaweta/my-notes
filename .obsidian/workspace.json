@@ -50,6 +50,16 @@
             }
           },
           {
+            "id": "83d6e43fc85285c0",
+            "type": "leaf",
+            "state": {
+              "type": "learnkit-settings",
+              "state": {},
+              "icon": "settings",
+              "title": "Settings"
+            }
+          },
+          {
             "id": "8e6ba05332309d58",
             "type": "leaf",
             "state": {
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,7 +263,7 @@
       "learnkit:LearnKit": false
     }
   },
-  "active": "f09cb20531589ccf",
+  "active": "83d6e43fc85285c0",
   "lastOpenFiles": [
     "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
     "Cybersecurity/02_Обучение/Специальные символы в регулярных выражениях (Regex).md",
