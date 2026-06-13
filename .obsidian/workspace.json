@@ -64,6 +64,16 @@
             }
           },
           {
+            "id": "9153ac29a818b3e7",
+            "type": "leaf",
+            "state": {
+              "type": "learnkit-settings",
+              "state": {},
+              "icon": "settings",
+              "title": "Settings"
+            }
+          },
+          {
             "id": "88af30582ba08662",
             "type": "leaf",
             "state": {
@@ -156,9 +166,23 @@
               "icon": "target",
               "title": "Coach"
             }
+          },
+          {
+            "id": "2d522f70f06d1d56",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "fgfgfgfg.md",
+                "bFile": "fgfgfgfg.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: fgfgfgfg  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -362,9 +386,19 @@
               "icon": "learnkit-widget-assistant",
               "title": "Open companion widget"
             }
+          },
+          {
+            "id": "4df2f1d9117e68ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -386,11 +420,14 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "copilot:Open Copilot Chat": false,
-      "learnkit:LearnKit": false
+      "learnkit:LearnKit": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79c175aae0602fb4",
+  "active": "2d522f70f06d1d56",
   "lastOpenFiles": [
+    "fgfgfgfg.md",
+    "Cybersecurity/02_Обучение/Порт (сетевой).md",
     "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
     "Cybersecurity/03_Инструменты/ss.md",
     "Cybersecurity/02_Обучение/Сокет (Socket).md",
@@ -398,7 +435,6 @@
     "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
     "Cybersecurity/03_Инструменты/find.md",
     "Cybersecurity/02_Обучение/IP-адресация.md",
-    "Cybersecurity/02_Обучение/Порт (сетевой).md",
     "Cybersecurity/02_Обучение/Хост (host).md",
     "Cybersecurity/02_Обучение/Транспортный уровень (L4).md",
     "copilot/copilot-conversations/Что_такое_IP-адресация@20260612_135059.md",
@@ -416,7 +452,6 @@
     "Cybersecurity/02_Обучение/Витая пара.md",
     "Cybersecurity/03_Инструменты/grep.md",
     "Cybersecurity/03_Инструменты/ls.md",
-    "Cybersecurity/03_Инструменты/chmod.md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
     "copilot",
