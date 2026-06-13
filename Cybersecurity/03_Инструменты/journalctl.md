@@ -90,3 +90,15 @@
    👉 `journalctl -p err`
 3. **Как следить за логами в реальном времени?**
    👉 `journalctl -f`
+
+## journalctl
+> [!question]- Как посмотреть логи SSH-сервера с момента последней загрузки?
+> `journalctl -b -u sshd`
+
+
+> [!question]- Как следить за логами в реальном времени (аналог `tail -f`)?
+> `journalctl -f`
+
+
+> [!question]- Как найти все записи об ошибках (priority err и выше) за последние сутки?
+> `journalctl --since yesterday -p err`

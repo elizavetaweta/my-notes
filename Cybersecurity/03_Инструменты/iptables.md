@@ -100,3 +100,25 @@ iptables -A INPUT -p tcp --dport 443 -j ACCEPT
    👉 `iptables -P INPUT DROP`, затем `iptables -A INPUT -p tcp --dport 22 -j ACCEPT`
 3. **Как заблокировать конкретный IP?**
    👉 `iptables -A INPUT -s IP_адрес -j DROP`
+
+## iptables
+> [!question]- Как посмотреть все текущие правила iptables?
+> `iptables -L -n -v`
+> [!question]- Как разрешить входящие соединения на порт 22 (SSH)?
+> `iptables -A INPUT -p tcp --dport 22 -j ACCEPT`
+
+
+> [!question]- Как запретить всё входящее и открыть только порты 80 и 443 (белый список)?
+> ```bash
+> iptables -P INPUT DROP
+> iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+> iptables -A INPUT -p tcp --dport 443 -j ACCEPT
+> iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+> ```
+
+
+> [!question]- Чем DROP отличается от REJECT?
+> > `DROP` молча отбрасывает пакет, отправитель не получает никакого ответа. `REJECT` возвращает отправителю ICMP-сообщение об ошибке. `DROP` лучше для безопасности (не выдаёт информацию о системе), но `REJECT` удобнее для диагностики.
+
+
+

@@ -8,69 +8,153 @@
         "type": "tabs",
         "children": [
           {
-            "id": "498ddcd93a04be58",
+            "id": "1d994b548864c16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/dev null.md",
+                "file": "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev null"
+              "title": "Модель OSI  (Open Systems Interconnection)"
             }
           },
           {
-            "id": "3e53b844109980c9",
+            "id": "f1f8dd18b8c52143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Шестнадцатеричный формат (Hex или 0-9a-f).md",
+                "file": "Cybersecurity/02_Обучение/Сокет (Socket).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шестнадцатеричный формат (Hex или 0-9a-f)"
+              "title": "Сокет (Socket)"
             }
           },
           {
-            "id": "f09cb20531589ccf",
+            "id": "af229205328ed890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Специальные символы в регулярных выражениях (Regex).md",
+                "file": "Cybersecurity/03_Инструменты/ss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Специальные символы в регулярных выражениях (Regex)"
+              "title": "ss"
             }
           },
           {
-            "id": "83d6e43fc85285c0",
+            "id": "79c175aae0602fb4",
             "type": "leaf",
             "state": {
-              "type": "learnkit-settings",
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/Порт (сетевой).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Порт (сетевой)"
+            }
+          },
+          {
+            "id": "88af30582ba08662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/Хост (host).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Хост (host)"
+            }
+          },
+          {
+            "id": "c448a87bd382330d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/IP-адресация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP-адресация"
+            }
+          },
+          {
+            "id": "98408e6df4bf5555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/Маршрутизация (Routing).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Маршрутизация (Routing)"
+            }
+          },
+          {
+            "id": "fd12b9ee0df069e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/Сетевой уровень (L3).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сетевой уровень (L3)"
+            }
+          },
+          {
+            "id": "4b19a48d9494d89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/Своими словами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Своими словами"
+            }
+          },
+          {
+            "id": "67317882a7e8ab33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/02_Обучение/Cipher Suite (Набор шифров).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cipher Suite (Набор шифров)"
+            }
+          },
+          {
+            "id": "3c5780f9fbdebbff",
+            "type": "leaf",
+            "state": {
+              "type": "learnkit-coach",
               "state": {},
-              "icon": "settings",
-              "title": "Settings"
-            }
-          },
-          {
-            "id": "8e6ba05332309d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/03_Инструменты/grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "grep"
+              "icon": "target",
+              "title": "Coach"
             }
           }
         ],
@@ -84,9 +168,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8fee0f645026a85",
+        "id": "3bf94476b35d63ba",
         "type": "tabs",
         "children": [
+          {
+            "id": "512b4d6db336fe25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
           {
             "id": "b8df89bceef341a3",
             "type": "leaf",
@@ -106,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Regex",
+                "query": "сокет",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,18 +210,9 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "512b4d6db336fe25",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,16 +322,58 @@
               "icon": "learnkit-widget-assistant",
               "title": "Open companion widget"
             }
+          },
+          {
+            "id": "b2641a7dbf05f065",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "1d1bdfd2ecde41d4",
+            "type": "leaf",
+            "state": {
+              "type": "learnkit-study-assistant",
+              "state": {},
+              "icon": "learnkit-widget-assistant",
+              "title": "Open companion widget"
+            }
+          },
+          {
+            "id": "3cdf43dd2459fb67",
+            "type": "leaf",
+            "state": {
+              "type": "learnkit-study-assistant",
+              "state": {},
+              "icon": "learnkit-widget-assistant",
+              "title": "Open companion widget"
+            }
+          },
+          {
+            "id": "5add1e54e47eec64",
+            "type": "leaf",
+            "state": {
+              "type": "learnkit-study-assistant",
+              "state": {},
+              "icon": "learnkit-widget-assistant",
+              "title": "Open companion widget"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -259,38 +386,40 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false,
       "learnkit:LearnKit": false
     }
   },
-  "active": "83d6e43fc85285c0",
+  "active": "79c175aae0602fb4",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
+    "Cybersecurity/03_Инструменты/ss.md",
+    "Cybersecurity/02_Обучение/Сокет (Socket).md",
     "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
-    "Cybersecurity/02_Обучение/Специальные символы в регулярных выражениях (Regex).md",
-    "Cybersecurity/02_Обучение/Шестнадцатеричный формат (Hex или 0-9a-f).md",
     "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
-    "Cybersecurity/03_Инструменты/grep.md",
-    "Cybersecurity/02_Обучение/dev null.md",
-    "Cybersecurity/03_Инструменты/echo.md",
-    "Cybersecurity/03_Инструменты/cd.md",
-    "Cybersecurity/03_Инструменты/touch.md",
-    "Cybersecurity/03_Инструменты/Командная строка.md",
-    "Cybersecurity/02_Обучение/Хост (host).md",
-    "Cybersecurity/01_Заметки/План подготовки.md",
-    "Cybersecurity/02_Обучение/Узел сети (Network Node).md",
-    "Cybersecurity/02_Обучение/Сетевые технологии.md",
-    "Cybersecurity/01_Заметки/LearnKit.md",
-    "Cybersecurity/03_Инструменты/ps.md",
-    "Cybersecurity/03_Инструменты/uniq.md",
-    "Cybersecurity/02_Обучение/Три временных теста -mtime -atime -ctime.md",
     "Cybersecurity/03_Инструменты/find.md",
-    "Cybersecurity/02_Обучение/Инкапсуляция (сетевая).md",
-    "Cybersecurity/02_Обучение/traceroute.md",
-    "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Перенаправления и конвейеры.md",
-    "Cybersecurity/02_Обучение/Обозначение прав доступа в Linux.md",
-    "Cybersecurity/04_Практические задания и примеры/Задачи от нейронки/Поиск и аудит файлов.md",
-    "Cybersecurity/02_Обучение/Анализ безопасности веб-сервера..md",
-    "Cybersecurity/03_Инструменты/pwd.md",
+    "Cybersecurity/02_Обучение/IP-адресация.md",
+    "Cybersecurity/02_Обучение/Порт (сетевой).md",
+    "Cybersecurity/02_Обучение/Хост (host).md",
+    "Cybersecurity/02_Обучение/Транспортный уровень (L4).md",
+    "copilot/copilot-conversations/Что_такое_IP-адресация@20260612_135059.md",
+    "Cybersecurity/02_Обучение/Маршрутизация (Routing).md",
+    "Cybersecurity/02_Обучение/План практического изучения сетей.md",
+    "Cybersecurity/02_Обучение/Прикладной уровень (L7).md",
+    "Cybersecurity/02_Обучение/ARP (Address Resolution Protocol).md",
+    "Cybersecurity/02_Обучение/Сетевой уровень (L3).md",
+    "Cybersecurity/02_Обучение/IPsec.md",
+    "Cybersecurity/02_Обучение/Канальный уровень (L2).md",
+    "Cybersecurity/02_Обучение/Кадр (Frame).md",
+    "Cybersecurity/02_Обучение/Пакет (сетевой).md",
+    "Cybersecurity/02_Обучение/Своими словами.md",
+    "Cybersecurity/02_Обучение/Cipher Suite (Набор шифров).md",
+    "Cybersecurity/02_Обучение/Витая пара.md",
+    "Cybersecurity/03_Инструменты/grep.md",
+    "Cybersecurity/03_Инструменты/ls.md",
+    "Cybersecurity/03_Инструменты/chmod.md",
+    "copilot/copilot-custom-prompts",
+    "copilot/copilot-conversations",
+    "copilot",
     "Cybersecurity/99_Вложения/Pasted image 20260426133829.png",
     "Cybersecurity/99_Вложения/Pasted image 20260427142950.png",
     "Cybersecurity/99_Вложения/Pasted image 20260428110813.png",
@@ -308,9 +437,6 @@
     "Cybersecurity/03_Инструменты/Untitled",
     "ISO",
     "Excalidraw",
-    "all_notes_full.txt",
-    "all_notes_from_obsidian.txt",
-    "Cybersecurity/04_Практические задания и примеры",
     "Cybersecurity/01_Заметки/Untitled.canvas",
     "Untitled.canvas"
   ]

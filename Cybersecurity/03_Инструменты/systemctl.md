@@ -81,3 +81,19 @@
    👉 `systemctl mask <служба>`
 3. **Где смотреть логи конкретной службы?**
    👉 `journalctl -u <служба>` или `/var/log/` для традиционных syslog-служб.
+
+## systemctl
+> [!question]- Как проверить статус службы SSH?
+> `systemctl status sshd`
+
+
+> [!question]- Как включить автозапуск службы при загрузке?
+> `systemctl enable nginx`
+
+
+> [!question]- Как перезагрузить конфигурацию службы без разрыва соединений (reload)?
+> `systemctl reload nginx`
+
+
+> [!question]- Как полностью запретить запуск службы, даже вручную?
+> `systemctl mask telnet`
