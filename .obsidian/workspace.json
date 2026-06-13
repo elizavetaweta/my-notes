@@ -402,7 +402,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 614.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,7 +424,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d522f70f06d1d56",
+  "active": "4df2f1d9117e68ff",
   "lastOpenFiles": [
     "fgfgfgfg.md",
     "Cybersecurity/02_Обучение/Порт (сетевой).md",
