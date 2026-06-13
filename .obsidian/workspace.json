@@ -171,14 +171,14 @@
             "id": "2d522f70f06d1d56",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "fgfgfgfg.md",
-                "bFile": "fgfgfgfg.md",
-                "aRef": ""
+                "file": "Cybersecurity/03_Инструменты/find.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: fgfgfgfg  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "find"
             }
           }
         ],
@@ -402,7 +402,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,15 +424,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4df2f1d9117e68ff",
+  "active": "2d522f70f06d1d56",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
+    "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
     "fgfgfgfg.md",
     "Cybersecurity/02_Обучение/Порт (сетевой).md",
     "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
     "Cybersecurity/03_Инструменты/ss.md",
     "Cybersecurity/02_Обучение/Сокет (Socket).md",
-    "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
-    "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
     "Cybersecurity/03_Инструменты/find.md",
     "Cybersecurity/02_Обучение/IP-адресация.md",
     "Cybersecurity/02_Обучение/Хост (host).md",

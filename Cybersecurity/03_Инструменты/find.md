@@ -235,12 +235,23 @@
 > [!question]- Как найти все файлы с правами 777 во всей системе?
 > `find / -type f -perm 0777`
 
+find / -type f -perm 0777
+
 
 > [!question]- Как найти файлы, изменённые за последние 24 часа?
 > `find /путь/ -type f -mtime -1`
+> 
+
+find /путь -type f -mtime -1
+
+
 > [!question]- Как найти все SUID-файлы (потенциальная эскалация привилегий)?
 > `find / -type f -perm -4000`
+
+find / -type f  -perm -4000
 
 
 > [!question]- Как найти файлы по имени, игнорируя регистр?
 > `find /путь/ -iname "*.conf"`
+
+find /путь -type f -iname "filename"
