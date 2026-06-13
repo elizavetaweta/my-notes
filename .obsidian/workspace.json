@@ -173,12 +173,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/03_Инструменты/ss.md",
+                "file": "Cybersecurity/02_Обучение/Своими словами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss"
+              "title": "Своими словами"
             }
           }
         ],
@@ -426,11 +426,11 @@
   },
   "active": "2d522f70f06d1d56",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
+    "Cybersecurity/03_Инструменты/ss.md",
     "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
     "Cybersecurity/03_Инструменты/ps.md",
-    "Cybersecurity/03_Инструменты/ss.md",
     "Cybersecurity/03_Инструменты/find.md",
-    "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
     "fgfgfgfg.md",
     "Cybersecurity/02_Обучение/Порт (сетевой).md",
     "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
