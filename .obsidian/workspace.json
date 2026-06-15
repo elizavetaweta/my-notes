@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Сетевой интерфейс (Network Interface).md",
+                "file": "Cybersecurity/02_Обучение/Хост (host).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сетевой интерфейс (Network Interface)"
+              "title": "Хост (host)"
             }
           },
           {
@@ -426,10 +426,11 @@
   "active": "1d994b548864c16e",
   "lastOpenFiles": [
     "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
+    "Cybersecurity/02_Обучение/Витая пара.md",
+    "Cybersecurity/02_Обучение/Сетевой интерфейс (Network Interface).md",
     "Cybersecurity/02_Обучение/Шлюз по умолчанию (Default Gateway).md",
     "Cybersecurity/02_Обучение/Маска подсети (Subnet Mask) и деление на подсети.md",
     "Cybersecurity/02_Обучение/IP-адрес.md",
-    "Cybersecurity/02_Обучение/Сетевой интерфейс (Network Interface).md",
     "Cybersecurity/02_Обучение/MAC-адрес.md",
     "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
     "Cybersecurity/02_Обучение/Сетевая карта.md",
@@ -450,7 +451,6 @@
     "Cybersecurity/02_Обучение/План практического изучения сетей.md",
     "Cybersecurity/02_Обучение/Прикладной уровень (L7).md",
     "Cybersecurity/02_Обучение/ARP (Address Resolution Protocol).md",
-    "Cybersecurity/02_Обучение/Сетевой уровень (L3).md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
     "copilot",
