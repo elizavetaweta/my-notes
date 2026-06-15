@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
+                "file": "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель OSI  (Open Systems Interconnection)"
+              "title": "2_Обзор модуля 2"
             }
           },
           {
@@ -181,8 +181,7 @@
               "title": "Своими словами"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -424,10 +423,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d522f70f06d1d56",
+  "active": "1d994b548864c16e",
   "lastOpenFiles": [
-    "Cybersecurity/02_Обучение/IP-адрес.md",
+    "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
+    "Cybersecurity/02_Обучение/Транспортный уровень (L4).md",
+    "Cybersecurity/02_Обучение/Протоколы транспортного уровня TCP и UDP.md",
     "Cybersecurity/02_Обучение/Своими словами.md",
+    "Cybersecurity/02_Обучение/IP-адрес.md",
     "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
     "Cybersecurity/03_Инструменты/ss.md",
     "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
@@ -435,11 +437,9 @@
     "Cybersecurity/03_Инструменты/find.md",
     "fgfgfgfg.md",
     "Cybersecurity/02_Обучение/Порт (сетевой).md",
-    "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
     "Cybersecurity/02_Обучение/Сокет (Socket).md",
     "Cybersecurity/02_Обучение/IP-адресация.md",
     "Cybersecurity/02_Обучение/Хост (host).md",
-    "Cybersecurity/02_Обучение/Транспортный уровень (L4).md",
     "copilot/copilot-conversations/Что_такое_IP-адресация@20260612_135059.md",
     "Cybersecurity/02_Обучение/Маршрутизация (Routing).md",
     "Cybersecurity/02_Обучение/План практического изучения сетей.md",
@@ -451,7 +451,6 @@
     "Cybersecurity/02_Обучение/Кадр (Frame).md",
     "Cybersecurity/02_Обучение/Пакет (сетевой).md",
     "Cybersecurity/02_Обучение/Cipher Suite (Набор шифров).md",
-    "Cybersecurity/02_Обучение/Витая пара.md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
     "copilot",
