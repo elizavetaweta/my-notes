@@ -1,5 +1,6 @@
 #term/concept #must-know #tech
 
+https://it-grad.kz/blog/tekhnologii/chto-takoe-setevye-interfeysy-i-kak-oni-ustroeny
 # 🔌 Сетевой интерфейс (Network Interface)
 
 > [!abstract] Суть одной фразой
