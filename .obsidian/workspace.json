@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
+                "file": "Cybersecurity/02_Обучение/IP-адрес.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_Обзор модуля 2"
+              "title": "IP-адрес"
             }
           },
           {
@@ -425,12 +425,14 @@
   },
   "active": "1d994b548864c16e",
   "lastOpenFiles": [
+    "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
     "Cybersecurity/02_Обучение/Модель OSI  (Open Systems Interconnection).md",
+    "Cybersecurity/02_Обучение/Сетевой интерфейс (Network Interface).md",
+    "Cybersecurity/02_Обучение/Сетевая карта.md",
     "Cybersecurity/02_Обучение/Транспортный уровень (L4).md",
     "Cybersecurity/02_Обучение/Протоколы транспортного уровня TCP и UDP.md",
     "Cybersecurity/02_Обучение/Своими словами.md",
     "Cybersecurity/02_Обучение/IP-адрес.md",
-    "Cybersecurity/02_Обучение/2_Обзор модуля 2.md",
     "Cybersecurity/03_Инструменты/ss.md",
     "Cybersecurity/02_Обучение/Самопроверка по Linux.md",
     "Cybersecurity/03_Инструменты/ps.md",
@@ -449,8 +451,6 @@
     "Cybersecurity/02_Обучение/IPsec.md",
     "Cybersecurity/02_Обучение/Канальный уровень (L2).md",
     "Cybersecurity/02_Обучение/Кадр (Frame).md",
-    "Cybersecurity/02_Обучение/Пакет (сетевой).md",
-    "Cybersecurity/02_Обучение/Cipher Suite (Набор шифров).md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
     "copilot",
